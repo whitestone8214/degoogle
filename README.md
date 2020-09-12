@@ -18,11 +18,15 @@
 	2. [브라우저 애드온](#브라우저-애드온)
 	3. [검색](#검색)
 	4. [유튜브](#유튜브)
-	5. [Web-based products](#web-based-products)
-	6. [Operating systems](#operating-systems)
-	7. [Desktop applications](#desktop-apps)
-	8. [Mobile applications](#mobile-apps)
-	9. [Hardware](#hardware)
+	5. [광고](#광고)
+	6. [알리미](#알리미)
+	7. [블로그와 홈페이지](#블로그와-홈페이지)
+	8. [애널리틱스](#애널리틱스)
+	9. [Web-based products](#web-based-products)
+	10. [Operating systems](#operating-systems)
+	11. [Desktop applications](#desktop-apps)
+	12. [Mobile applications](#mobile-apps)
+	13. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -43,7 +47,7 @@
 
 1. 프라이버시와 보안에 중점을 둔다고 알려진 것들만 모았습니다.
 2. 주로 [이 문서](https://en.wikipedia.org/wiki/List_of_Google_products)를 참고했습니다. 
-3. 마이크로소프트, 애플, 야후, 아마존의 제품들은 절대 안 넣는 것은 아니지만, 가급적 다른 것들을 먼저 알아봤습니다.
+3. 마이크로소프트, 애플, 야후, 아마존, 네이버, 카카오 등은 절대 안 넣는 것은 아니지만, 가급적 다른 것들을 먼저 알아봤습니다.
 4. 미심쩍은 것들은 부연 설명을 달았습니다.
 5. 소유권이 있는 회사가 있는 나라가 '눈' 의 일원임을 확인한 경우 어느 '눈' 에 속하는지 또한 표기했습니다.
 	- ['눈' 이란?](https://www.privacytools.io/providers/#ukusa)
@@ -91,15 +95,15 @@
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [DuckDuckGo](https://duckduckgo.com/) | **5**(미국) | |
-| [Startpage](https://www.startpage.com/) | **9**(네덜란드) | 참고 [1](https://github.com/tycrek/degoogle/issues/12), [2](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) |
-| [searx.me](https://searx.me/) | | [오픈소스](https://github.com/asciimoo/searx)입니다. |
+| [Startpage](https://www.startpage.com/) | **9**(네덜란드) | [(참고 1)](https://github.com/tycrek/degoogle/issues/12) [(참고 2)](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) |
+| [searx.me](https://searx.me/) | | [(소스코드)](https://github.com/asciimoo/searx) |
 | [MetaGer](https://metager.org/about) | **14**(독일) | |
 | [Qwant](https://www.qwant.com/) | **9**(프랑스) | |
 | [Swisscows](https://swisscows.ch) | | |
 | [Mojeek](https://www.mojeek.com/) | **5**(영국) | 독자적인 크롤러와 인덱스를 운영, 독자적인 데이터베이스를 구축합니다. |
 | [Ekoru](https://ekoru.org/) | | |
 | [Cyberd](https://cyber.page/) | | 참고 [1](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5 FAQ.md) |
-| [Infinity Search](https://infinitysearch.co/) | **5**(미국) | [오픈소스](https://gitlab.com/infinitysearch/infinity-search)입니다. |
+| [Infinity Search](https://infinitysearch.co/) | **5**(미국) | [(소스코드)](https://gitlab.com/infinitysearch/infinity-search) |
 | [Runnaroo](https://www.runnaroo.com/) | | |
 
 
@@ -108,14 +112,62 @@
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
-| [PeerTube](https://joinpeertube.org/) | **9**(프랑스) | [오픈소스](https://github.com/Chocobozzz/PeerTube)입니다. |
+| [PeerTube](https://joinpeertube.org/) | **9**(프랑스) | [(소스코드)](https://github.com/Chocobozzz/PeerTube) |
 | [BitChute](https://www.bitchute.com/) | **5**(영국) | |
-| [DTube](https://d.tube/) | | [오픈소스](https://github.com/dtube/dtube)입니다. |
+| [DTube](https://d.tube/) | | [(소스코드)](https://github.com/dtube/dtube) |
 | [Bit.tube](https://bittube.tv/) | | |
-| [Invidious](https://invidio.us/) | | [오픈소스](https://github.com/omarroth/invidious)입니다. 유튜브 프론트엔드입니다. |
+| [Invidious](https://invidio.us/) | | [(소스코드)](https://github.com/omarroth/invidious) 유튜브 프론트엔드입니다. |
 | [hooktube](https://hooktube.com/) | | |
 | [LBRY](https://lbry.com/) | **5**(미국) | |
-| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | | [오픈소스](https://github.com/FreeTubeApp/FreeTube)입니다. Invidious 프론트엔드입니다. |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | | [(소스코드)](https://github.com/FreeTubeApp/FreeTube) Invidious 프론트엔드입니다. |
+
+
+## 광고
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [EthicalAds](https://www.ethicalads.io/) |  | [(소스코드)](https://github.com/readthedocs/ethical-ad-server) |
+
+
+## 알리미
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [F5Bot](https://f5bot.com/) | **5**(미국) | 관찰하는 사이트는 Reddit, [Hacker News](https://news.ycombinator.com/), [Lobsters](https://lobste.rs/)입니다. |
+
+
+## 블로그와 홈페이지
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Joomla](https://www.joomla.org/) | **5**(미국) | [(소스코드)](https://github.com/joomla/joomla-cms) |
+| [Write.as](https://write.as/) <br> [WriteFreely](https://writefreely.org/) | | [(소스코드)](https://github.com/writeas/writefreely) |
+| [WordPress.com](https://wordpress.com/) <br> [WordPress](https://wordpress.org/) | **5**(미국) | [(소스코드)](https://build.trac.wordpress.org/browser) |
+| [concrete5](https://www.concrete5.org/) | **5**(미국) | [(소스코드)](https://github.com/concrete5/concrete5) |
+| [Noblogs](https://noblogs.org/) | | |
+| [Ghost](https://ghost.org/) | | [(소스코드)](https://github.com/TryGhost/Ghost) |
+| [Bear](https://bearblog.dev/) | | [(소스코드)](https://github.com/HermanMartinus/bearblog/) |
+| [Simpleblogs](https://simpleblogs.org/) | | [(소스코드)](https://github.com/mawise/simpleblog) |
+
+
+## 애널리틱스
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Matomo](https://matomo.org/) | | [(소스코드)](https://github.com/matomo-org/matomo) |
+| [Fathom](https://usefathom.com/) | | |
+| [Plausible](https://plausible.io/) | | [(소스코드)](https://github.com/plausible/analytics) |
+| [GoatCounter](https://www.goatcounter.com/) | | [(소스코드)](https://github.com/zgoat/goatcounter) 오픈소스지만, 비영리 목적으로 사용할 경우에만 무료입니다. |
+| [Simple Analytics](https://simpleanalytics.com/) | | |
+| [Toasted Analytics](https://toastedanalytics.com/) | **5**(영국) | |
+| [Shynet](https://github.com/milesmcc/shynet) | | [(소스코드)](https://github.com/milesmcc/shynet) |
+| [Supabase](https://supabase.io/) | | [(소스코드)](https://github.com/supabase/supabase) [(참고 1)](https://github.com/supabase/supabase/issues/85#issuecomment-636010946) |
+| [GoAccess](https://goaccess.io/) | | [(소스코드)](https://goaccess.io/) |
+| [Offen](https://www.offen.dev/) | **14**(독일) | [(소스코드)](https://github.com/offen/offen) |
 
 
 ## Web-based products
@@ -145,62 +197,12 @@ No known alternatives.
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
 
 
-
-#### Google Ads/AdMob/AdSense
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [EthicalAds](https://www.ethicalads.io/) |  | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). |
-
-
-
-#### Google Alerts
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [F5Bot](https://f5bot.com/) | **5-eyes** | Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. |
-
-
-
 #### G Suite (enterprise cloud)
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
-
-
-
-#### Blogger/Sites
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Joomla](https://www.joomla.org/) |  | Self-hosted and open-source content management system (CMS). |
-| [Write.as](https://write.as/) |  | Self-advertised as privacy-focused. |
-| [WordPress self-hosted](https://wordpress.org/) |  | The open-source version of WordPress. A very popular tool and a recognized name. |
-| [concrete5](https://www.concrete5.org/about) | **5-eyes** | Open-source CMS. |
-| [Noblogs](https://noblogs.org/) | **9-eyes** | A privacy/security focused blogging platform. |
-| [Ghost](https://ghost.org/) |  | Open-source modern CMS. Boasts "over 19x faster than WordPress". Thanks @peterge1998 |
-| [Bear](https://bearblog.dev/) | **5-eyes** | Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers. Just your words. |
-| [Simpleblogs](https://simpleblogs.org/) |  | FLOSS blogging platform with a focus on privacy. Easy to self-host (standard rails app, ships with AWS deployment scripts. AWS is not required). Access restricted to accounts which you create and hand out. Good for private blogs but not for commercial/public blogging. |
-
-
-
-#### Analytics
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik) |
-| [Fathom](https://usefathom.com/) | **5-eyes** | Simple analytics for bloggers & businesses |
-| [Plausible](https://plausible.io/) | **5-eyes** | Open-source, privacy-focused web analytics. |
-| [GoatCounter](https://www.goatcounter.com/) | **14-eyes** | Simple web statistics. No tracking of personal data. Open-source and may be self-hosted. Free for non-commercial use; paid plans available. |
-| [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
-| [Toasted Analytics](https://toastedanalytics.com/) | **5-eyes** | Simple, privacy friendly analytics with event tracking. Paid only (with free trial) |
-| [Shynet](https://github.com/milesmcc/shynet) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys |
-| [Supabase](https://supabase.io/) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys |
-| [GoAccess](https://goaccess.io/) |  | An open source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
-| [Offen](https://www.offen.dev/) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
-
 
 
 #### Photos
