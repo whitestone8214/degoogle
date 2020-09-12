@@ -13,79 +13,82 @@
 # 순서
 
 1. [원본](#원본)
-2. [브라우저 애드온](#브라우저-애드온)
-3. [Replacements/alternatives](#replacementsalternatives)
-    1. [Disclaimer](#disclaimer)
-    2. [Web-based products](#web-based-products)
-    3. [Operating systems](#operating-systems)
-    4. [Desktop applications](#desktop-apps)
-    5. [Mobile applications](#mobile-apps)
-    6. [Hardware](#hardware)
-4. [Useful links, tools, and advice](#useful-links-tools-and-advice)
-    1. [Resources](#resources)
-    1. [Books](#books)
-    1. [Blog posts](#blog-posts)
-    1. [News articles](#news-articles)
-5. [The lighter side](#the-lighter-side)
-6. [Closing remarks](#closing-remarks)
+2. [대체재](#대체재)
+	1. [안내](#안내)
+	2. [브라우저 애드온](#브라우저-애드온)
+	3. [Web-based products](#web-based-products)
+	4. [Operating systems](#operating-systems)
+	5. [Desktop applications](#desktop-apps)
+	6. [Mobile applications](#mobile-apps)
+	7. [Hardware](#hardware)
+3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
+	1. [Resources](#resources)
+	2. [Books](#books)
+	3. [Blog posts](#blog-posts)
+	4. [News articles](#news-articles)
+4. [The lighter side](#the-lighter-side)
+5. [Closing remarks](#closing-remarks)
+
 
 # 원본
 
 - [github.com/tycrek/degoogle](https://github.com/tycrek/degoogle) (English)
 
-# 브라우저 애드온
 
-| 이름 | 설명 |
-| ---- | ----------- |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | 단순한 광고 차단기를 넘어, 페이지 내의 무엇이든 차단할 수 있는 만능 차단기입니다. |
-| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | 보이지 않는 추적기에 대해 알아서 학습합니다. 주어지는 차단 목록에 기대기보다는 당신의 웹 활동에 동행하며 당신을 추적하는 듯한 것들을 알아서 파악합니다. |
-| [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes) ![Mozilla Add-on](https://img.shields.io/amo/users/decentraleyes?style=flat-square) | Google Hosted Libraries같은 것들을 통해 오는 다양한 리퀘스트 형태의 추적을 막아주며, 로컬 영역에 해당 사이트들의 목록을 기록해 둡니다. 통상의 차단기들과도 궁합이 좋습니다. |
-| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | 브라우저를 나가는 리퀘스트를 가급적 모두 HTTPS로 변환합니다. |
-| [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | 탭이 닫힐 때마다 사용되지 않는 쿠키를 자동으로 제거합니다. 제거를 원하지 않는 쿠키는 화이트리스트에 넣으면 됩니다. 컨테이너 탭도 지원합니다. |
-| [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | 검색 엔진 덕덕고(DuckDuckGo)의 주 서비스를 이용할 수 있는 덕덕고 공식 애드온입니다. |
-| [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies?style=flat-square) | 웹에서 쿠키 사용 경고 창을 치워줍니다. 애드온이 창을 치워주지 못한다면, 우클릭 메뉴의 '쿠키 경고 보고(Report a cookie warning)' 을 사용해 어느 사이트인지 알려줄 수 있습니다. |
-| [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/minerblock-origin?style=flat-square) | 웹에서 암호화폐 채굴기를 막아줍니다. 블랙리스트에 등록된 리퀘스트와 스크립트를 차단하기도 하고, 로드되는 스크립트의 정밀 검사를 통해 채굴 코드가 감지되면 차단하기도 합니다. [(소스코드)](https://github.com/xd4rker/MinerBlock) |
-| [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read) ![Mozilla Add-on](https://img.shields.io/amo/users/terms-of-service-didnt-read?style=flat-square) | 사이트마다 툴바에 아이콘을 표시하며, 클릭하면 해당 사이트가 적용하는 이용 약관에 대해 당신에게 어느 부분이 어떻게 유해한지 설명해 주고, 유해 정도에 따라 A(가장 무해한)부터 E(가장 유해한)까지 등급도 매깁니다. |
-| [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls) ![Mozilla Add-on](https://img.shields.io/amo/users/clearurls?style=flat-square) | 브라우저가 접속할 URL을 사전에 검사해 추적 요소가 담긴 부분을 제거해 줍니다. |
-| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall?style=flat-square) | 당신이 원한다면 주요 클라우드 서비스에 있는 페이지나 웹 리소스에의 접속을 막아줍니다. 현재 구글, 아마존, 페이스북, 애플, 마이크로소프트, 클라우드플레어가 그 대상입니다. |
-| [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection?style=flat-square) | CSS를 청소해 CSS Exfil 공격을 예방합니다. |
-| [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect) ![Mozilla Add-on](https://img.shields.io/amo/users/disconnect?style=flat-square) | 당신의 검색 및 브라우징 이력을 추적할지도 모르는 보이지 않는 웹사이트를 보이게 하고, 막아줍니다. |
-| [Don't touch my tabs! (rel=noopener](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs) ![Mozilla Add-on](https://img.shields.io/amo/users/dont-touch-my-tabs?style=flat-square) | 링크를 통해 연 탭이 이전 탭을 가로채지 못하도록 (도메인이 같은 링크를 제외한) 모든 링크에 rel=noopener를 덧붙여 줍니다. |
-| [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/multi-account-containers?style=flat-square) | 탭마다 각각 컨테이너에 가두어 한 브라우저 안에서 여러 계정을 동시에 굴릴 수 있게 해줍니다. 탭들은 서로 다른 색을 띠며, 쿠키의 저장과 사용도 따로따로입니다. |
-| [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix?style=flat-square) | 구글 검색 결과에서 당신이 링크를 클릭하는 순간 해당 링크가 가리키는 주소를 구글이 멋대로 변경하는 것을 막아줍니다. 얀덱스(Yandex)에도 적용 가능합니다. |
-| [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz?style=flat-square) | HTTP 리퀘스트를 HTTPS 리퀘스트로 변환해 줍니다. |
-| [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner) ![Mozilla Add-on](https://img.shields.io/amo/users/link-cleaner?style=flat-square) | 브라우저가 접속할 URL을 청소해 줍니다. utm_* 인자나 추적 요소가 담긴 부분을 제거해 주기도 하고, 페이스북이나 스팀같은 곳에서 리다이렉트 페이지를 건너뛰게 해주기도 합니다. |
-| [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url) ![Mozilla Add-on](https://img.shields.io/amo/users/neat-url?style=flat-square) | URL에서 쓰레기인 부분을 제거해 줍니다. |
-| [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-oriented-origin-policy?style=flat-square) | 파이어폭스가 Origin 헤더를 전송하려 할 때 그것이 중요한 사안이 아니라면 전송하지 못하도록 막아줍니다. |
-| [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect) ![Mozilla Add-on](https://img.shields.io/amo/users/skip-redirect?style=flat-square) | 리다이렉트 페이지를 건너뛰게 해줍니다. |
-| [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | 탭, 웹사이트, 링크를 특수한 컨테이너에서 열게 해줍니다. 해당 컨테이너는 다른 탭들과 완전히 격리됩니다. |
-| [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix?style=flat-square) | 마우스로 브라우저의 리퀘스트를 허용하거나 거부할 수 있습니다. |
-| [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | 검색 엔진을 이용할 때 난수생성된 쿼리를 발행해 저쪽에서 당신을 식별하기 어렵게 합니다. |
-| [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | 사이트를 AMP 대신 원래 버전으로 이용할 수 있게 해줍니다. |
-| [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js/)  | 이건 애드온은 아니고, 더 나은 프라이버시 보호와 보안을 추구하는, user.js로 저장해 사용하는 설정 파일입니다. 정상적으로 이용할 수 없는 사이트가 있을 수 있습니다. |
+# 대체재
+
+## 안내
+
+1. 프라이버시와 보안에 중점을 둔다고 알려진 것들만 모았습니다.
+2. 주로 [이 문서](https://en.wikipedia.org/wiki/List_of_Google_products)를 참고했습니다. 
+3. 마이크로소프트, 애플, 야후, 아마존 및 그 자회사의 제품들은, 절대는 아니지만, 가급적 넣지 않았습니다.
+4. 미심쩍은 물건들은 부연 설명을 달았습니다.
+5. 소유권이 있는 회사의 국적이 '눈' 의 일원인 경우, 넣기는 넣되, 어느 '눈' 에 속하는지 또한 표기했습니다.
+	- ['눈' 이란?](https://www.privacytools.io/providers/#ukusa)
+	- 5개의 눈: 호주, 캐나다, 뉴질랜드, 영국, 미국
+	- 9개의 눈: 5개의 눈 + 덴마크, 프랑스, 네덜란드, 노르웨이
+	- 14개의 눈: 9개의 눈 + 독일, 벨기에, 이탈리아, 스웨덴, 스페인
 
 
-# Replacements/alternatives
+## 브라우저 애드온
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
-### *Disclaimer*
-
-1. Only **privacy/security** focused alternatives will be suggested.
-2. Many replacements are based off [this Wikipedia article (List of Google products)](https://en.wikipedia.org/wiki/List_of_Google_products)
-3. Products from companies such as Microsoft, Apple, Yahoo, Amazon, etc. will *not* be recommended unless there is a very good reason to. This includes companies/apps/services they own.
-4. Controversial services will have a disclaimer attached if needed.
-5. 5-eyes, 9-eyes, and 14-eyes services **will** be listed, and marked as such. This means the company, not the server IP.
-    - **5**: Australia, Canada, New Zealand, UK, USA
-    - **9**: Denmark, France, Netherlands, Norway
-    - **14**: Germany, Belgium, Italy, Sweden, Spain
-    - [What are 5-eyes, 9-eyes, and 14-eyes?](https://www.privacytools.io/providers/#ukusa)
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | | 단순한 광고 차단기를 넘어, 페이지 내의 무엇이든 차단할 수 있는 만능 차단기입니다. |
+| [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | | 보이지 않는 추적기에 대해 알아서 학습합니다. 주어지는 차단 목록에 기대기보다는 당신의 웹 활동에 동행하며 당신을 추적하는 듯한 것들을 알아서 파악합니다. |
+| [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes) ![Mozilla Add-on](https://img.shields.io/amo/users/decentraleyes?style=flat-square) | | Google Hosted Libraries같은 것들을 통해 오는 다양한 리퀘스트 형태의 추적을 막아주며, 로컬 영역에 해당 사이트들의 목록을 기록해 둡니다. 통상의 차단기들과도 궁합이 좋습니다. |
+| [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | | 브라우저를 나가는 리퀘스트를 가급적 모두 HTTPS로 변환합니다. |
+| [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | | 탭이 닫힐 때마다 사용되지 않는 쿠키를 자동으로 제거합니다. 제거를 원하지 않는 쿠키는 화이트리스트에 넣으면 됩니다. 컨테이너 탭도 지원합니다. |
+| [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | | 검색 엔진 덕덕고(DuckDuckGo)의 주 서비스를 이용할 수 있는 덕덕고 공식 애드온입니다. |
+| [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies?style=flat-square) | | 웹에서 쿠키 사용 경고 창을 치워줍니다. 애드온이 창을 치워주지 못한다면, 우클릭 메뉴의 '쿠키 경고 보고(Report a cookie warning)' 을 사용해 어느 사이트인지 알려줄 수 있습니다. |
+| [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/minerblock-origin?style=flat-square) | | 웹에서 암호화폐 채굴기를 막아줍니다. 블랙리스트에 등록된 리퀘스트와 스크립트를 차단하기도 하고, 로드되는 스크립트의 정밀 검사를 통해 채굴 코드가 감지되면 차단하기도 합니다. [(소스코드)](https://github.com/xd4rker/MinerBlock) |
+| [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read) ![Mozilla Add-on](https://img.shields.io/amo/users/terms-of-service-didnt-read?style=flat-square) | | 사이트마다 툴바에 아이콘을 표시하며, 클릭하면 해당 사이트가 적용하는 이용 약관에 대해 당신에게 어느 부분이 어떻게 유해한지 설명해 주고, 유해 정도에 따라 A(가장 무해한)부터 E(가장 유해한)까지 등급도 매깁니다. |
+| [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls) ![Mozilla Add-on](https://img.shields.io/amo/users/clearurls?style=flat-square) | | 브라우저가 접속할 URL을 사전에 검사해 추적 요소가 담긴 부분을 제거해 줍니다. |
+| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall?style=flat-square) | | 당신이 원한다면 주요 클라우드 서비스에 있는 페이지나 웹 리소스에의 접속을 막아줍니다. 현재 구글, 아마존, 페이스북, 애플, 마이크로소프트, 클라우드플레어가 그 대상입니다. |
+| [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection?style=flat-square) | | CSS를 청소해 CSS Exfil 공격을 예방합니다. |
+| [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect) ![Mozilla Add-on](https://img.shields.io/amo/users/disconnect?style=flat-square) | | 당신의 검색 및 브라우징 이력을 추적할지도 모르는 보이지 않는 웹사이트를 보이게 하고, 막아줍니다. |
+| [Don't touch my tabs! (rel=noopener](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs) ![Mozilla Add-on](https://img.shields.io/amo/users/dont-touch-my-tabs?style=flat-square) | | 링크를 통해 연 탭이 이전 탭을 가로채지 못하도록 (도메인이 같은 링크를 제외한) 모든 링크에 rel=noopener를 덧붙여 줍니다. |
+| [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/multi-account-containers?style=flat-square) | | 탭마다 각각 컨테이너에 가두어 한 브라우저 안에서 여러 계정을 동시에 굴릴 수 있게 해줍니다. 탭들은 서로 다른 색을 띠며, 쿠키의 저장과 사용도 따로따로입니다. |
+| [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix?style=flat-square) | | 구글 검색 결과에서 당신이 링크를 클릭하는 순간 해당 링크가 가리키는 주소를 구글이 멋대로 변경하는 것을 막아줍니다. 얀덱스(Yandex)에도 적용 가능합니다. |
+| [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz?style=flat-square) | | HTTP 리퀘스트를 HTTPS 리퀘스트로 변환해 줍니다. |
+| [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner) ![Mozilla Add-on](https://img.shields.io/amo/users/link-cleaner?style=flat-square) | | 브라우저가 접속할 URL을 청소해 줍니다. utm_* 인자나 추적 요소가 담긴 부분을 제거해 주기도 하고, 페이스북이나 스팀같은 곳에서 리다이렉트 페이지를 건너뛰게 해주기도 합니다. |
+| [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url) ![Mozilla Add-on](https://img.shields.io/amo/users/neat-url?style=flat-square) | | URL에서 쓰레기인 부분을 제거해 줍니다. |
+| [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-oriented-origin-policy?style=flat-square) | | 파이어폭스가 Origin 헤더를 전송하려 할 때 그것이 중요한 사안이 아니라면 전송하지 못하도록 막아줍니다. |
+| [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect) ![Mozilla Add-on](https://img.shields.io/amo/users/skip-redirect?style=flat-square) | | 리다이렉트 페이지를 건너뛰게 해줍니다. |
+| [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | | 탭, 웹사이트, 링크를 특수한 컨테이너에서 열게 해줍니다. 해당 컨테이너는 다른 탭들과 완전히 격리됩니다. |
+| [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix?style=flat-square) | | 마우스로 브라우저의 리퀘스트를 허용하거나 거부할 수 있습니다. |
+| [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | | 검색 엔진을 이용할 때 난수생성된 쿼리를 발행해 저쪽에서 당신을 식별하기 어렵게 합니다. |
+| [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | | 사이트를 AMP 대신 원래 버전으로 이용할 수 있게 해줍니다. |
+| [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js/)  | | 이건 애드온은 아니고, 더 나은 프라이버시 보호와 보안을 추구하는, user.js로 저장해 사용하는 설정 파일입니다. 정상적으로 이용할 수 없는 사이트가 있을 수 있습니다. |
 
 
 ## Web-based products
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 #### Search (Web & Images)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
 | [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
@@ -103,7 +106,7 @@
 
 #### YouTube
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [PeerTube](https://joinpeertube.org/) |  | Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. Thanks @kdkasad for clarifying federation. |
 | [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7) |
@@ -119,7 +122,7 @@
 
 #### News
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
@@ -136,7 +139,7 @@ No known alternatives.
 
 #### Translate
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
 
@@ -144,7 +147,7 @@ No known alternatives.
 
 #### Google Ads/AdMob/AdSense
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [EthicalAds](https://www.ethicalads.io/) |  | A developer-focused, privacy-obsessed ad network from the fine folks at Read the Docs. Source code can be [on GitHub](https://github.com/readthedocs/ethical-ad-server). |
 
@@ -152,7 +155,7 @@ No known alternatives.
 
 #### Google Alerts
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [F5Bot](https://f5bot.com/) | **5-eyes** | Emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. |
 
@@ -160,7 +163,7 @@ No known alternatives.
 
 #### G Suite (enterprise cloud)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
@@ -169,7 +172,7 @@ No known alternatives.
 
 #### Blogger/Sites
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Joomla](https://www.joomla.org/) |  | Self-hosted and open-source content management system (CMS). |
 | [Write.as](https://write.as/) |  | Self-advertised as privacy-focused. |
@@ -184,7 +187,7 @@ No known alternatives.
 
 #### Analytics
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Matomo](https://matomo.org/) | **9/14-eyes** | (Matomo/parent company) - Open-source analytics platform. (thanks u/Newblik) |
 | [Fathom](https://usefathom.com/) | **5-eyes** | Simple analytics for bloggers & businesses |
@@ -201,7 +204,7 @@ No known alternatives.
 
 #### Photos
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Photoprism](https://github.com/photoprism/photoprism) |  | Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow. |
 | [ownPhotos](https://github.com/hooram/ownphotos) |  | Self-hosted and open-source Google Photos alternative. |
@@ -214,7 +217,7 @@ No known alternatives.
 
 #### Calendar
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/) |  | Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey. |
 | [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
@@ -229,7 +232,7 @@ No known alternatives.
 
 #### Docs/Sheets/Slides (cloud)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [CryptPad](https://cryptpad.fr/) | **9-eyes** | Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features. |
 | [Etherpad](https://etherpad.org/) |  | Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data. |
@@ -242,7 +245,7 @@ No known alternatives.
 
 #### Docs/Sheets/Slides (offline)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [LibreOffice](https://www.libreoffice.org/) |  | Open-source offline document suites. |
 | [LyX](https://www.lyx.org/) |  | It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
@@ -254,7 +257,7 @@ No known alternatives.
 
 #### Domains
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6) |
 | [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
@@ -263,7 +266,7 @@ No known alternatives.
 
 #### Drive
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [ownCloud](https://owncloud.org/) |  | Open-source and self-hosted. Provide your own storage. |
 | [Nextcloud](https://nextcloud.com/) |  | Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre) |
@@ -280,7 +283,7 @@ No known alternatives.
 
 #### Hangouts (text/video messaging)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Signal](https://signal.org/) | **5-eyes** | Whistleblower and privacy advocate Edward Snowden recommends Signal. |
 | [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
@@ -296,7 +299,7 @@ No known alternatives.
 
 #### Gmail (mail service)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Forward Email](https://forwardemail.net/) |  | Forward Email is a free and open-source email forwarding service focused on a user's right to privacy. |
 | [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
@@ -320,7 +323,7 @@ No known alternatives.
 
 #### Keep
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Joplin](https://joplinapp.org/) |  | Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
 | [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
@@ -334,7 +337,7 @@ No known alternatives.
 
 #### Play Music, Movies, & TV
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Jellyfin](https://jellyfin.github.io/) |  | Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is). |
 | [Funkwhale](https://funkwhale.audio/) |  | Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals) |
@@ -349,7 +352,7 @@ No known alternatives.
 
 #### Fonts
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host open-source fonts from Google Fonts |
@@ -359,7 +362,7 @@ No known alternatives.
 
 #### Classroom
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Moodle](https://moodle.org/) |  | Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt |
 | [ILIAS](https://www.ilias.de/en/) |  | Another self-hosted open source classroom software. Thanks again to @jankapunkt |
@@ -369,7 +372,7 @@ No known alternatives.
 
 #### Maps/Street View
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
 | [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
@@ -379,7 +382,7 @@ No known alternatives.
 
 #### Transit
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Transportr](https://transportr.app/) |  | An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option** |
 
@@ -393,7 +396,7 @@ No known alternatives.
 
 #### Forms
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [BlockSurvey](https://blocksurvey.io/) |  | BlockSurvey enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey. All your data is protected using your key and only you can access it. There are no trackers, cookies, or fingerprints on the forms of data providers. Thanks @compressstudio |
 
@@ -402,11 +405,11 @@ No known alternatives.
 
 
 ## Operating systems
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 #### Android/Fuchsia
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
 | [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
@@ -421,7 +424,7 @@ No known alternatives.
 
 #### Chrome OS
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Qubes OS](https://www.qubes-os.org/) |  | "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it. |
 | [Subgraph OS](https://subgraph.com/index.en.html) |  | A desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. |
@@ -435,7 +438,7 @@ No known alternatives.
 
 #### Wear OS
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) open-source alternative for Wear OS. Make sure you buy a watch that supports it! |
 
@@ -449,7 +452,7 @@ No known alternatives.
 
 #### Android TV
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Kodi](https://kodi.tv/) |  | It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform. |
 | [OSMC](https://osmc.tv/) |  | Free, open source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC! |
@@ -459,11 +462,11 @@ No known alternatives.
 
 
 ## Desktop apps
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 #### Chrome
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
 | [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
@@ -475,7 +478,7 @@ No known alternatives.
 
 #### Earth
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
 
@@ -483,7 +486,7 @@ No known alternatives.
 
 #### Android Studio (not specifically for Android development, just in general)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
 | [Vim](https://www.vim.org/) |  | Open-source text editor. Thanks @moon-chilled |
@@ -495,11 +498,11 @@ No known alternatives.
 
 
 ## Mobile apps
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 #### Play Store
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
 | [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) [![F-Droid](https://img.shields.io/f-droid/v/com.github.kiliakin.yalpstore?style=flat-square)](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. This version is a fork of the original project that is no longer active. Thank @onlyjob |
@@ -515,7 +518,7 @@ No known alternatives.
 
 #### Chrome (Android)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) [![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid?style=flat-square)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
 | [Bromite](https://www.bromite.org/) |  | Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
@@ -524,7 +527,7 @@ No known alternatives.
 
 #### Calculator
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
 | [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
@@ -534,7 +537,7 @@ No known alternatives.
 
 #### Calendar
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [DAVx⁵](https://www.davx5.com/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.davdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.davdroid/) |  | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. |
 | [ICSx⁵](https://icsx5.bitfire.at/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.icsdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.icsdroid/) |  | ICSx⁵ is an Android app to subscribe to remote (“Webcal”) or local iCalendar files (like time tables of your school/university or event files of your sports team). Thanks @je-vv |
@@ -546,7 +549,7 @@ No known alternatives.
 
 #### Camera
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | Open source camera for Android. Thanks @je-vv |
 
@@ -554,7 +557,7 @@ No known alternatives.
 
 #### Clock
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | Open-source Alarm clock, timer, and stop watch. |
 | [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
@@ -564,7 +567,7 @@ No known alternatives.
 
 #### Contacts
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
 | [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
@@ -575,7 +578,7 @@ No known alternatives.
 
 #### Android Messages (specifically SMS/MMS, not IM)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS?style=flat-square)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
 | [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure?style=flat-square)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
@@ -585,7 +588,7 @@ No known alternatives.
 
 #### Gboard (Google Keyboard)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard?style=flat-square)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | Open-source keyboard. Available on F-Droid. |
 | [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) [![F-Droid](https://img.shields.io/f-droid/v/org.pocketworkstation.pckeyboard?style=flat-square)](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) |  | Also open-source. Very useful for developers or sysadmins on the go. |
@@ -598,7 +601,7 @@ No known alternatives.
 
 #### Drive
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [ownCloud Android](https://github.com/owncloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.owncloud.android?style=flat-square)](https://f-droid.org/en/packages/com.owncloud.android/) |  | ownCloud Android client. Available on F-Droid. |
 | [Nextcloud Android](https://github.com/nextcloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.nextcloud.client?style=flat-square)](https://f-droid.org/en/packages/com.nextcloud.client/) |  | Nextcloud Android client. Available on F-Droid. |
@@ -608,7 +611,7 @@ No known alternatives.
 
 #### Gmail (smartphone app)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
 | [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
@@ -622,7 +625,7 @@ No known alternatives.
 
 #### Keep (or any stock note-taking app)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Notepad](https://github.com/farmerbb/Notepad) [![F-Droid](https://img.shields.io/f-droid/v/com.farmerbb.notepad?style=flat-square)](https://f-droid.org/en/packages/com.farmerbb.notepad/) |  | Open-source. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
 | [Joplin](https://github.com/laurent22/joplin) |  | Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store. |
@@ -636,7 +639,7 @@ No known alternatives.
 
 #### Maps/Waze
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
 | [OsmAnd](https://osmand.net/) [![F-Droid](https://img.shields.io/f-droid/v/net.osmand.plus?style=flat-square)](https://f-droid.org/en/packages/net.osmand.plus/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
@@ -647,7 +650,7 @@ No known alternatives.
 
 #### News
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym?style=flat-square)](https://f-droid.org/en/packages/net.frju.flym/) |  | Open-source Material Design RSS reader. |
 | [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder?style=flat-square)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
@@ -656,7 +659,7 @@ No known alternatives.
 
 #### Photos
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
 
@@ -671,7 +674,7 @@ No known alternatives.
 
 #### YouTube
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
 | [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
@@ -680,7 +683,7 @@ No known alternatives.
 
 #### Authenticator
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp?style=flat-square)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | Open-source 2FA app. |
 | [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) [![F-Droid](https://img.shields.io/f-droid/v/org.liberty.android.freeotpplus?style=flat-square)](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. |
@@ -692,7 +695,7 @@ No known alternatives.
 
 #### Play Music/Play Movies & TV
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An open-source Airsonic client for Android. |
 | [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An open-source Android client for MPD. Available on F-Droid. |
@@ -701,7 +704,7 @@ No known alternatives.
 
 #### Hangouts
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
 | [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations?style=flat-square)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
@@ -712,7 +715,7 @@ No known alternatives.
 
 #### Duo (video calls)
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
 
@@ -720,7 +723,7 @@ No known alternatives.
 
 #### Assistant
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) |  | Android client for Mycroft. Must be built in IDE; no pre-built binaries are available. |
 | [Ara](https://github.com/FultonBrowne/Ara-android) |  | Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara) |
@@ -729,7 +732,7 @@ No known alternatives.
 
 #### Play Services Framework
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [microG](https://microg.org/) |  | A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin |
 
@@ -737,7 +740,7 @@ No known alternatives.
 
 #### Android home screen launchers
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub. |
 | [ZimLX](https://github.com/otakuhqz/ZimLX) [![F-Droid](https://img.shields.io/f-droid/v/org.zimmob.zimlx?style=flat-square)](https://f-droid.org/en/packages/org.zimmob.zimlx/) |  | Open-source launcher. Active development with lots of nice features. |
@@ -748,7 +751,7 @@ No known alternatives.
 
 #### *Other*
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. |
 | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
@@ -758,11 +761,11 @@ No known alternatives.
 
 
 ## Hardware
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 #### Nexus/Pixel
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
 | [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
@@ -772,7 +775,7 @@ No known alternatives.
 
 #### Chromebook
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho) |
 | [Purism Laptops](https://puri.sm/) | **5-eyes** | Privacy-focused laptop running PureOS. Good designs and decent hardware. |
@@ -782,7 +785,7 @@ No known alternatives.
 
 #### Chromecast
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) | **5-eyes** | The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it. |
 
@@ -790,7 +793,7 @@ No known alternatives.
 
 #### Google Home
 
-| Name | Eyes | Description |
+| 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Mycroft](https://mycroft.ai/) | **5-eyes** | Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7) |
 | [Home Assistant](https://www.home-assistant.io/) |  | Open-source home automation. (thanks u/bilange) |
@@ -847,7 +850,7 @@ Everything you need to become a Privacy Wizard.
 - Did you read the [wiki](https://old.reddit.com/r/privacy/wiki/index) yet? Go do that.
 
 ## Books 
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 | Title | Published | Author |
 | ----- | --------- | ------ |
@@ -859,7 +862,7 @@ Everything you need to become a Privacy Wizard.
 
 
 ## Blog posts 
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 | Title | Published | Author |
 | ----- | --------- | ------ |
@@ -869,7 +872,7 @@ Everything you need to become a Privacy Wizard.
 
 
 ## News articles 
-[![Back to top](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#index)
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 | Title | Published | Author |
 | ----- | --------- | ------ |
