@@ -16,11 +16,13 @@
 2. [대체재](#대체재)
 	1. [안내](#안내)
 	2. [브라우저 애드온](#브라우저-애드온)
-	3. [Web-based products](#web-based-products)
-	4. [Operating systems](#operating-systems)
-	5. [Desktop applications](#desktop-apps)
-	6. [Mobile applications](#mobile-apps)
-	7. [Hardware](#hardware)
+	3. [검색](#검색)
+	4. [유튜브](#유튜브)
+	5. [Web-based products](#web-based-products)
+	6. [Operating systems](#operating-systems)
+	7. [Desktop applications](#desktop-apps)
+	8. [Mobile applications](#mobile-apps)
+	9. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -41,9 +43,9 @@
 
 1. 프라이버시와 보안에 중점을 둔다고 알려진 것들만 모았습니다.
 2. 주로 [이 문서](https://en.wikipedia.org/wiki/List_of_Google_products)를 참고했습니다. 
-3. 마이크로소프트, 애플, 야후, 아마존 및 그 자회사의 제품들은, 절대는 아니지만, 가급적 넣지 않았습니다.
-4. 미심쩍은 물건들은 부연 설명을 달았습니다.
-5. 소유권이 있는 회사의 국적이 '눈' 의 일원인 경우, 넣기는 넣되, 어느 '눈' 에 속하는지 또한 표기했습니다.
+3. 마이크로소프트, 애플, 야후, 아마존의 제품들은 절대 안 넣는 것은 아니지만, 가급적 다른 것들을 먼저 알아봤습니다.
+4. 미심쩍은 것들은 부연 설명을 달았습니다.
+5. 소유권이 있는 회사가 있는 나라가 '눈' 의 일원임을 확인한 경우 어느 '눈' 에 속하는지 또한 표기했습니다.
 	- ['눈' 이란?](https://www.privacytools.io/providers/#ukusa)
 	- 5개의 눈: 호주, 캐나다, 뉴질랜드, 영국, 미국
 	- 9개의 눈: 5개의 눈 + 덴마크, 프랑스, 네덜란드, 노르웨이
@@ -83,41 +85,41 @@
 | [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js/)  | | 이건 애드온은 아니고, 더 나은 프라이버시 보호와 보안을 추구하는, user.js로 저장해 사용하는 설정 파일입니다. 정상적으로 이용할 수 없는 사이트가 있을 수 있습니다. |
 
 
-## Web-based products
+## 검색
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
-#### Search (Web & Images)
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [DuckDuckGo](https://duckduckgo.com/) | **5**(미국) | |
+| [Startpage](https://www.startpage.com/) | **9**(네덜란드) | 참고 [1](https://github.com/tycrek/degoogle/issues/12), [2](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) |
+| [searx.me](https://searx.me/) | | [오픈소스](https://github.com/asciimoo/searx)입니다. |
+| [MetaGer](https://metager.org/about) | **14**(독일) | |
+| [Qwant](https://www.qwant.com/) | **9**(프랑스) | |
+| [Swisscows](https://swisscows.ch) | | |
+| [Mojeek](https://www.mojeek.com/) | **5**(영국) | 독자적인 크롤러와 인덱스를 운영, 독자적인 데이터베이스를 구축합니다. |
+| [Ekoru](https://ekoru.org/) | | |
+| [Cyberd](https://cyber.page/) | | 참고 [1](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5 FAQ.md) |
+| [Infinity Search](https://infinitysearch.co/) | **5**(미국) | [오픈소스](https://gitlab.com/infinitysearch/infinity-search)입니다. |
+| [Runnaroo](https://www.runnaroo.com/) | | |
+
+
+## 유튜브
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
-| [DuckDuckGo](https://duckduckgo.com/) | **5-eyes** | One of the best privacy-focused search engines. Domain is hosted in USA which could potentially be problematic for some. |
-| [Startpage](https://www.startpage.com/) | **9-eyes** | Another privacy search engine that claims to not track any of your data. They operate servers in both USA and Europe. Note: Startpage was recently acquired. See [Issue #12](https://github.com/tycrek/degoogle/issues/12). Thanks @pydo, @ThijsRay, and @DatAres37. Also see [this comment in Issue #99](https://github.com/tycrek/degoogle/issues/99#issuecomment-616224650) from @danarel on Startpage. |
-| [searx.me](https://searx.me/) |  | [Open-source](https://github.com/asciimoo/searx) (thanks for clarification u/Sheezdudeln) privacy search engine. Domain hosted in Germany. |
-| [MetaGer](https://metager.org/about) | **14-eyes** | MetaGer is the search engine project from the registered nonprofit organization SUMA E.V. in Germany. |
-| [Qwant](https://www.qwant.com/) | **9-eyes** | Major improvements since 2018's guide. *would prefer better info other than an outdated reference* |
-| [Swisscows](https://swisscows.ch) |  | A Swiss search engine that offers a unique search experience for the web, images, videos, music, and more. They are currently funding a mail service. Read through their [datacenter about page](https://swisscows.ch/en/datacenter), it's really interesting. |
-| [Mojeek](https://www.mojeek.com/) | **5-eyes** | Unlike other privacy search engines which act as a "middle man" between you and Google/Bing/Yahoo, Mojeek has their own crawler and index. The results aren't as complete as some of the others, but it is still impressive and they are actively building their index to include more results with better accuracy. |
-| [Ekoru](https://ekoru.org/) |  | Privacy focused search engine that also aims to clean up the oceans. Thanks @mynamesleon |
-| [Cyberd](https://cyber.page/) |  | Decentralized Google. A web 3 alternative for the Google search engine. In Beta testing mode. Uses IPFS and Tendermint consensus for security and economic incentives. Please see their [ELI-5 FAQ](https://github.com/cybercongress/congress/blob/master/ecosystem/ELI-5%20FAQ.md) for more info. |
-| [Infinity Search](https://infinitysearch.co/) | **5-eyes** | Infinity Search is a privacy metasearch engine that does not log any information about its users. In terms of privacy, it works the same way as DuckDuckGo. It is free to use and is funded by non-tracking advertisements and affiliate links. It is also completely open source. |
-| [Runnaroo](https://www.runnaroo.com/) | **5-eyes** | "Runnaroo was built from the ground up to provide an all around better search experience." Thanks @codingepaduli |
+| [PeerTube](https://joinpeertube.org/) | **9**(프랑스) | [오픈소스](https://github.com/Chocobozzz/PeerTube)입니다. |
+| [BitChute](https://www.bitchute.com/) | **5**(영국) | |
+| [DTube](https://d.tube/) | | [오픈소스](https://github.com/dtube/dtube)입니다. |
+| [Bit.tube](https://bittube.tv/) | | |
+| [Invidious](https://invidio.us/) | | [오픈소스](https://github.com/omarroth/invidious)입니다. 유튜브 프론트엔드입니다. |
+| [hooktube](https://hooktube.com/) | | |
+| [LBRY](https://lbry.com/) | **5**(미국) | |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | | [오픈소스](https://github.com/FreeTubeApp/FreeTube)입니다. Invidious 프론트엔드입니다. |
 
 
-
-#### YouTube
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [PeerTube](https://joinpeertube.org/) |  | Decentralized, federated video hosting network. Still quite small, but is growing and has a dedicated community. Although there is no central database/server, all the separate instances can still talk to one another. This allows for data exchange and a way to view anyone's videos while only associating with one instance. Thanks @kdkasad for clarifying federation. |
-| [BitChute](https://www.bitchute.com/) | **5-eyes** | Also P2P, but not decentralized. Due to it being proprietary, if BitChute goes down then the whole thing goes down (unlike PeerTube). (thanks u/up-sky-7) |
-| [DTube](https://d.tube/) |  | Looks very similar to YouTube. Advertised as "first crypt-decentralized video-platform". Built on Steemit and IPFS. |
-| [Bit.tube](https://bit.tube/) |  | Appears to be a crypto-powered decentralized video sharing service. (thanks u/rudolf323) |
-| [Invidious](https://invidio.us/) |  | An [open-source](https://github.com/omarroth/invidious) front-end alternative to YouTube. Seems to work pretty well from my experience so far, and it hasn't triggered *anything* on my adblocker/privacy extensions. Also offers downloads in many formats for videos (including `.vtt` subtitles). |
-| [Hooktube](https://hooktube.com/) |  | A slightly better way to use actual YouTube. (Use as a "last resort") |
-| [LBRY](https://lbry.com/) |  | A decentralized platform for distributing and supporting creators's work. It aims to be Open, Community driven "digital marketplace". It can be used in a similar way to YouTube: browsing, subscribing to channels, there is a mechanism to send "tips" to creators. Looks up videos based on a blockchain and is open source and uncensored. It already has some "larger" creators like Minutephysics, Veritasium, Barnacules and Lunduke. |
-| [US.TV](https://us.tv/) |  | PeerTube instance hosted by Epik.com. |
-| [FreeTube](https://github.com/FreeTubeApp/FreeTube) |  | Open-source desktop YouTube client that uses the Invidio.us API to serve content. |
-
+## Web-based products
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 
 #### News
@@ -127,7 +129,6 @@
 | [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
 | [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
 | [Miniflux](https://miniflux.app/) |  | Miniflux is a minimalist and opinionated feed reader. Completely open source, along with automatically removing pixel trackers. |
-
 
 
 #### Groups
