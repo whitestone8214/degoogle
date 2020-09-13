@@ -22,11 +22,12 @@
 	6. [알리미](#알리미)
 	7. [블로그와 홈페이지](#블로그와-홈페이지)
 	8. [애널리틱스](#애널리틱스)
-	9. [Web-based products](#web-based-products)
-	10. [Operating systems](#operating-systems)
-	11. [Desktop applications](#desktop-apps)
-	12. [Mobile applications](#mobile-apps)
-	13. [Hardware](#hardware)
+	9. [포토](#포토)
+	10. [Web-based products](#web-based-products)
+	11. [Operating systems](#operating-systems)
+	12. [Desktop applications](#desktop-apps)
+	13. [Mobile applications](#mobile-apps)
+	14. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -170,6 +171,19 @@
 | [Offen](https://www.offen.dev/) | **14**(독일) | [(소스코드)](https://github.com/offen/offen) |
 
 
+## 포토
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Photoprism](https://github.com/photoprism/photoprism) | | [(소스코드)](https://github.com/photoprism/photoprism) |
+| [ownPhotos](https://github.com/hooram/ownphotos) | | [(소스코드)](https://github.com/hooram/ownphotos) |
+| [Piwigo](https://piwigo.org/) <br> [Piwigo.com](https://piwigo.com/) | **9**(프랑스) | [(소스코드)](https://github.com/Piwigo/Piwigo) |
+| [JottaCloud](https://jottacloud.com/) | **9**(노르웨이) | |
+| [Cryptee](https://crypt.ee/) | | |
+| [Photostructure](https://photostructure.com/) | | [(소스코드)](https://github.com/photostructure/photostructure-for-servers) |
+
+
 ## Web-based products
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -203,19 +217,6 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
-
-
-#### Photos
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Photoprism](https://github.com/photoprism/photoprism) |  | Self-hosted and open-source Personal Photo Management powered by Go and Google TensorFlow. |
-| [ownPhotos](https://github.com/hooram/ownphotos) |  | Self-hosted and open-source Google Photos alternative. |
-| [Piwigo](https://piwigo.org/) | **9-eyes** | (self-hosted) - Self-hosted and open-source cloud photo manager. You can also sign up for an ["as a service" account](https://piwigo.com). |
-| [JottaCloud](https://jottacloud.com/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
-| [Cryptee](https://crypt.ee/) |  | Encrypted photo storage in a simple solution similar to Google Photos. |
-| [Photostructure](https://photostructure.com/) |  | Open-source and self-hosted photo library. Photostructure is a new media-hosting solution, in its last beta version before production release. |
-
 
 
 #### Calendar
