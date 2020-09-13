@@ -23,11 +23,12 @@
 	7. [블로그와 홈페이지](#블로그와-홈페이지)
 	8. [애널리틱스](#애널리틱스)
 	9. [포토](#포토)
-	10. [Web-based products](#web-based-products)
-	11. [Operating systems](#operating-systems)
-	12. [Desktop applications](#desktop-apps)
-	13. [Mobile applications](#mobile-apps)
-	14. [Hardware](#hardware)
+	10. [캘린더](#캘린더)
+	11. [Web-based products](#web-based-products)
+	12. [Operating systems](#operating-systems)
+	13. [Desktop applications](#desktop-apps)
+	14. [Mobile applications](#mobile-apps)
+	15. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -184,6 +185,20 @@
 | [Photostructure](https://photostructure.com/) | | [(소스코드)](https://github.com/photostructure/photostructure-for-servers) |
 
 
+## 캘린더
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Lightning](https://www.thunderbird.net/en-US/calendar/) | **5**(미국) | [썬더버드](https://www.thunderbird.net/)의 애드온입니다. |
+| [Tutanota Calendar](https://tutanota.com/calendar/) | **14**(독일) | |
+| [Fruux](https://fruux.com/) | **14**(독일) | |
+| [EteSync](https://www.etesync.com) | | [(소스코드)](https://github.com/etesync/server) |
+| [Baïkal](https://sabre.io/baikal/) | **14**(독일) | [(소스코드)](https://github.com/sabre-io/Baikal) |
+| [Nextcloud](https://nextcloud.com/) | | [(소스코드)](https://github.com/nextcloud/server) |
+| [Fastmail](https://fastmail.com/) | **5**(미국, 호주) | |
+
+
 ## Web-based products
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -217,21 +232,6 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
-
-
-#### Calendar
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Lightning Calendar (Thunderbird)](https://www.thunderbird.net/en-US/calendar/) |  | Developed by Mozilla Foundation and open-source. Integrates into Thunderbird and SeaMonkey. |
-| [Tutanota Calendar](https://tutanota.com/calendar/) | **14-eyes** | Developed by Tutanota. Free cross-platform encrypted calendar. Allows importing of other Calendar files. Can't be synced to other calendar software. |
-| [Fruux](https://fruux.com/) | **14-eyes** | Open-source calendar using "sabre/dav" (open-source WebDAV, CardDAV, and CalDAV). They mention privacy quite a bit on their site. Very large number of features, and supports nearly every device: Windows, iOS, Linux, Android, BlackBerry, SailFish, and also a webapp for browsers. |
-| [Zoho](https://www.zoho.com/) |  | I mentioned Zoho above for G Suite, so here they are again. |
-| [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
-| [Baïkal](https://sabre.io/baikal/) |  | a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars. It is fast and simple to install and only needs a basic php capable server. The data can be stored in a MySQL or a SQLite database. Thanks @mahdi1234 |
-| [Nextcloud](https://nextcloud.com/) |  | Nextcloud also offers a calendar solution using CalDAV and CardDAV. Thanks @mahdi1234 for pointing this out. |
-| [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider with Calendar hosting using CalDAV and CardDAV, located in Australia and US. |
-
 
 
 #### Docs/Sheets/Slides (cloud)
