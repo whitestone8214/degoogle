@@ -24,11 +24,12 @@
 	8. [애널리틱스](#애널리틱스)
 	9. [포토](#포토)
 	10. [캘린더](#캘린더)
-	11. [Web-based products](#web-based-products)
-	12. [Operating systems](#operating-systems)
-	13. [Desktop applications](#desktop-apps)
-	14. [Mobile applications](#mobile-apps)
-	15. [Hardware](#hardware)
+	11. [클라우드 기반 오피스](#클라우드-기반-오피스)
+	12. [Web-based products](#web-based-products)
+	13. [Operating systems](#operating-systems)
+	14. [Desktop applications](#desktop-apps)
+	15. [Mobile applications](#mobile-apps)
+	16. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -199,6 +200,17 @@
 | [Fastmail](https://fastmail.com/) | **5**(미국, 호주) | |
 
 
+## 클라우드 기반 오피스
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [CryptPad](https://cryptpad.fr/) | **9**(프랑스) | [(소스코드)](https://github.com/xwiki-labs/cryptpad) |
+| [Etherpad](https://etherpad.org/) | | [(소스코드)](https://github.com/ether/etherpad-lite) |
+| [Cryptee](https://crypt.ee/) | | |
+| [ONLYOFFICE](https://www.onlyoffice.com) | | [(소스코드)](https://github.com/ONLYOFFICE/server) |
+| [Arcane Office](https://arcaneoffice.com/) | | |
+
+
 ## Web-based products
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -232,18 +244,6 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
-
-
-#### Docs/Sheets/Slides (cloud)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [CryptPad](https://cryptpad.fr/) | **9-eyes** | Open-source "zero knowledge" collaborative cloud editor. They offer Rich Text, Code, Presentation, Sheet (beta), Poll, Kanban, Whiteboard, and CryptDrive. 100% Client side encryption. Tons of useful features. |
-| [Etherpad](https://etherpad.org/) |  | Self-hosted collaborative editor. Does not use the browser. Not the greatest interface, but it's open-source and you have full control over who can see your data. |
-| [Cryptee](https://crypt.ee/) |  | Open-source and privacy focused photo and document storage/editing. Based in Estonia, so your files are outside the reach of any 14-eyes country. They don't even require an email address to sign up. |
-| [LibreOffice Online](https://www.libreoffice.org/download/libreoffice-online/) | **14-eyes** | Self-hosted instance of LibreOffice that you can run in your browser. Thanks @flubberding |
-| [ONLYOFFICE](https://www.onlyoffice.com) |  | Open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. |
-| [Arcane Office](https://arcaneoffice.com/) |  | A decentralized office suite with high-security and zero-knowledge on your data. With Arcane Office, you have maximum control on your personal stuff. Full-featured online document and spreadsheet editor. Secure storage to save your photos. All free for personal use. Thanks @taraletti |
 
 
 
