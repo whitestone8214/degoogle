@@ -25,11 +25,12 @@
 	9. [포토](#포토)
 	10. [캘린더](#캘린더)
 	11. [클라우드 기반 오피스](#클라우드-기반-오피스)
-	12. [Web-based products](#web-based-products)
-	13. [Operating systems](#operating-systems)
-	14. [Desktop applications](#desktop-apps)
-	15. [Mobile applications](#mobile-apps)
-	16. [Hardware](#hardware)
+	12. [오프라인 기반 오피스](#오프라인-기반-오피스)
+	13. [Web-based products](#web-based-products)
+	14. [Operating systems](#operating-systems)
+	15. [Desktop applications](#desktop-apps)
+	16. [Mobile applications](#mobile-apps)
+	17. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -201,6 +202,7 @@
 
 
 ## 클라우드 기반 오피스
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
@@ -209,6 +211,16 @@
 | [Cryptee](https://crypt.ee/) | | |
 | [ONLYOFFICE](https://www.onlyoffice.com) | | [(소스코드)](https://github.com/ONLYOFFICE/server) |
 | [Arcane Office](https://arcaneoffice.com/) | | |
+
+
+## 오프라인 기반 오피스
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [LibreOffice](https://www.libreoffice.org/) | | [(소스코드)](https://git.libreoffice.org/core/) |
+| [LyX](https://www.lyx.org/) | | [(소스코드)](https://git.lyx.org/git/?p=lyx.git;a=summary) TeX/LaTeX 편집기입니다. |
+| [Calligra](https://calligra.org/) | | [(소스코드)](https://invent.kde.org/office/calligra) |
 
 
 ## Web-based products
@@ -244,18 +256,6 @@ No known alternatives.
 | ---- | ---- | ----------- |
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
-
-
-
-#### Docs/Sheets/Slides (offline)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [LibreOffice](https://www.libreoffice.org/) |  | Open-source offline document suites. |
-| [LyX](https://www.lyx.org/) |  | It's an open-source (and offline) document processor using TeX/LaTeX. It's different than Docs or Word but amazing, once you get used to it. Thanks @Glitchy-Tozier |
-| [ONLYOFFICE](https://www.onlyoffice.com/download-desktop.aspx) |  | Offline version of ONLYOFFICE, an open-source private cloud replacement for Google Docs'suite and Office 360. Also available as a self contained rich application. Thanks @PalmoliveDev |
-| [Cryptee](https://crypt.ee/) |  | Offline version of Cryptee for web. Runs as a progressive web app. Works most modern phone browsers (Chrome, Opera or Firefox on Android; Safari on iOS). Also works in desktop browsers that support PWA (the website lists that only Chrome works, but [others will work](https://github.com/tycrek/degoogle/issues/160#issuecomment-643066320) too. |
-| [Calligra](https://calligra.org/) |  | Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. (Free and Open Source Software) |
 
 
 
