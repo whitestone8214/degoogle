@@ -45,11 +45,19 @@
 	29. [어스](#어스)
 	30. [안드로이드 스튜디오](#안드로이드-스튜디오)
 	31. [플레이 스토어](#플레이-스토어)
-	32. [Web-based products](#web-based-products)
-	33. [Operating systems](#operating-systems)
-	34. [Desktop applications](#desktop-apps)
-	35. [Mobile applications](#mobile-apps)
-	36. [Hardware](#hardware)
+	32. [안드로이드용 크롬](#안드로이드용-크롬)
+	33. [계산기](#계산기)
+	34. [캘린더 앱](#캘린더-앱)
+	35. [카메라](#카메라)
+	36. [시계](#시계)
+	37. [연락처](#연락처)
+	38. [메시지](#메시지)
+	39. [키보드](#키보드)
+	40. [Web-based products](#web-based-products)
+	41. [Operating systems](#operating-systems)
+	42. [Desktop applications](#desktop-apps)
+	43. [Mobile applications](#mobile-apps)
+	44. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -466,6 +474,7 @@
 
 
 ## 플레이 스토어
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
@@ -473,6 +482,86 @@
 | [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) | | 플레이 스토어에 있는 앱을 내려받는 우회 경로입니다. |
 | [APKMirror](https://www.apkmirror.com/) | | 독자적인 페이스로 앱을 취급하는 안드로이드용 앱스토어입니다. 플레이 스토어에 있는 모든 앱을 취급하는 것은 아니지만, 플레이 스토어에 없거나 오래된 버전의 앱을 내려받을 수 있습니다. |
 | [APKGrabber](https://github.com/hemker/apkgrabber) | | [(소스코드)](https://github.com/hemker/apkgrabber) 플레이 스토어에 있는 앱을 내려받는 우회 경로입니다. |
+
+
+## 안드로이드용 크롬
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) | | 자체 개발한 엔진을 사용합니다. |
+| [Bromite](https://www.bromite.org/) | | 크로뮴에서 구글 관련 요소를 가급적 제거한 변종 크로뮴입니다. |
+
+
+## 계산기
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | | |
+| [Calculator++](https://github.com/Bubu/android-calculatorpp) | | |
+
+
+## 캘린더 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Etar](https://github.com/xsoh/Etar-Calendar) | | |
+| [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) | | |
+
+
+## 카메라
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Open Camera](https://opencamera.sourceforge.io/) | | |
+
+
+## 시계
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Clock +](https://github.com/philliphsu/ClockPlus) | | |
+| [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) | | |
+| [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) | | 오픈소스지만, 온전히 자유 소프트웨어는 아닙니다. 이용할 때 주의하세요. |
+
+
+## 연락처
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) | | |
+
+
+## 메시지
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 메신저 앱 말고, SMS/MMS 앱의 대체재입니다.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [QKSMS](https://github.com/moezbhatti/qksms) | | 일반적인 SMS/MMS 앱입니다. |
+| [Silence.im](https://silence.im/) | | SMS/MMS를 암호화해서 주고받습니다. |
+| [Signal](https://signal.org/) | | SMS/MMS를 암호화해서 주고받습니다. |
+
+
+## 키보드
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 현재 오픈소스인 한국어 키보드나 한국어 입력을 지원하는 오픈소스 키보드는 아직 없습니다.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [AnySoftKeyboard](https://anysoftkeyboard.github.io/) | | 주로 유럽 지역 언어들을 지원하는 다국어 키보드입니다. |
+| [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) | | Esc, Tab, 별도의 숫자키 등이 있어 데스크톱 키보드에 거의 근접한 키보드입니다. |
+| [kboard](https://github.com/adgad/kboard) | | |
+| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) | | |
+| [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) | | 인도의 다양한 언어들을 지원하는 키보드입니다. |
+| [OpenBoard](https://github.com/dslul/openboard) | | |
+| [nicoWnnG IME](http://gorry.haun.org/android/nicownng/) | | [(소스코드)](http://gorry.haun.org/android/nicownng/dist/old/) 일본어 키보드입니다. |
 
 
 ## Web-based products
@@ -537,89 +626,6 @@ No known alternatives.
 
 ## Mobile apps
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-
-
-#### Chrome (Android)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) [![F-Droid](https://img.shields.io/f-droid/v/org.mozilla.fennec_fdroid?style=flat-square)](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) |  | A privacy-focused version of Firefox Android available on F-Droid. It's focused on removing any proprietary bits found in official Mozilla's builds. (thanks u/SupremeLisper) |
-| [Bromite](https://www.bromite.org/) |  | Privacy-focused/open-source build of Chromium with built-in ad blocking. (thanks u/SupremeLisper) |
-
-
-
-#### Calculator
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calculator?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) |  | Also part of the SMT project. Available on F-Droid. |
-| [Calculator N+ or NCalc+](https://github.com/tranleduy2000/ncalc) |  | Open-source feature-rich calculator. App itself is no longer in development, but the developer does [encourage pull requests](https://github.com/tranleduy2000/ncalc#calculator-n---powerful-calculator-for-android). I've used it frequently and it works great. Not on F-Droid, but a 3rd party play store can probably find it; or the APK's are available as releases on GitHub. You can also compile from source. |
-| [Calculator++](https://github.com/Bubu/android-calculatorpp) [![F-Droid](https://img.shields.io/f-droid/v/org.solovyev.android.calculator?style=flat-square)](https://f-droid.org/en/packages/org.solovyev.android.calculator/) |  | Open-source calculator packed with features. Thanks @ghost |
-
-
-
-#### Calendar
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [DAVx⁵](https://www.davx5.com/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.davdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.davdroid/) |  | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. |
-| [ICSx⁵](https://icsx5.bitfire.at/) [![F-Droid](https://img.shields.io/f-droid/v/at.bitfire.icsdroid?style=flat-square)](https://f-droid.org/en/packages/at.bitfire.icsdroid/) |  | ICSx⁵ is an Android app to subscribe to remote (“Webcal”) or local iCalendar files (like time tables of your school/university or event files of your sports team). Thanks @je-vv |
-| [Fruux (mobile app)](https://fruux.com/) |  | Same service from above provides an Android app. |
-| [Etar](https://github.com/xsoh/Etar-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/ws.xsoh.etar?style=flat-square)](https://f-droid.org/en/packages/ws.xsoh.etar/) |  | Open-source material design Calendar that integrates with the Android Calendar API. Can integrate with CalDAV/CardDAV servers. |
-| [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.calendar.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
-
-
-
-#### Camera
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Open Camera](https://opencamera.sourceforge.io/) [![F-Droid](https://img.shields.io/f-droid/v/net.sourceforge.opencamera?style=flat-square)](https://f-droid.org/en/packages/net.sourceforge.opencamera/) |  | Open source camera for Android. Thanks @je-vv |
-
-
-
-#### Clock
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Clock +](https://github.com/philliphsu/ClockPlus) [![F-Droid](https://img.shields.io/f-droid/v/com.philliphsu.clock2?style=flat-square)](https://f-droid.org/en/packages/com.philliphsu.clock2/) |  | Open-source Alarm clock, timer, and stop watch. |
-| [Simple Alarm Clock](https://github.com/yuriykulikov/AlarmClock) |  | Exactly as it's name says; simple alarm clock yet adds many improvements over other apps. No dock mode or world clock. |
-| [Insane Alarm!](https://github.com/RIAEvangelist/insane-alarm) |  | Developer states that he had "spent a night out with the boys and drank a bit too much but needed to be up in the morning". So, he made the loudest alarm clock possible based off an emergency alarm from when he was in the military. This app doesn't mess around, use it wisely. |
-
-
-
-#### Contacts
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Fruux (mobile app)](https://fruux.com/) |  | Fruux *also* provides a contacts app. |
-| [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) [![F-Droid](https://img.shields.io/f-droid/v/com.simplemobiletools.contacts.pro?style=flat-square)](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) |  | Open-source. Part of the [Simple Mobile Tools](https://github.com/SimpleMobileTools) project. |
-| [Open Contacts](https://gitlab.com/sultanahamer/OpenContacts/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/opencontacts.open.com.opencontacts?style=flat-square)](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/) |  | Open source contacts. (thanks u/consentio) |
-| [EteSync](https://www.etesync.com) [![F-Droid](https://img.shields.io/f-droid/v/com.etesync.syncadapter?style=flat-square)](https://f-droid.org/en/packages/com.etesync.syncadapter/) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
-
-
-
-#### Android Messages (specifically SMS/MMS, not IM)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [QKSMS](https://github.com/moezbhatti/qksms) [![F-Droid](https://img.shields.io/f-droid/v/com.moez.QKSMS?style=flat-square)](https://f-droid.org/en/packages/com.moez.QKSMS/) |  | Open-source. Very clean and feature rich SMS app. Available on F-Droid. |
-| [Silence.im](https://silence.im/) [![F-Droid](https://img.shields.io/f-droid/v/org.smssecure.smssecure?style=flat-square)](https://f-droid.org/en/packages/org.smssecure.smssecure/) |  | Open-source and utilizes Signal's encryption protocol. Seamlessly works with SMS. End-to-end encryption with other Silence users. Available on F-Droid. |
-| [Signal](https://signal.org/) |  | Signal possesses SMS/MMS capabilities on Android. Using it as your default SMS app has the advantage of having your SMS and your online-messaging-service integrated within one app. Doing so will also show stats within the app of how many messages you send are encrypted, and offers to send invites to your contacts. Thanks @Glitchy-Tozier for suggesting it be listing as SMS/MMS alternative. |
-
-
-
-#### Gboard (Google Keyboard)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [AnySoftKeyboard](https://anysoftkeyboard.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.menny.android.anysoftkeyboard?style=flat-square)](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/) |  | Open-source keyboard. Available on F-Droid. |
-| [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) [![F-Droid](https://img.shields.io/f-droid/v/org.pocketworkstation.pckeyboard?style=flat-square)](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) |  | Also open-source. Very useful for developers or sysadmins on the go. |
-| [kboard](https://github.com/adgad/kboard) [![F-Droid](https://img.shields.io/f-droid/v/com.adgad.kboard?style=flat-square)](https://f-droid.org/en/packages/com.adgad.kboard/) |  | Open-source. Has features for phrases, "lenny faces", macros and more. **Note**: Project [appears to be abandoned](https://github.com/adgad/kboard/issues/16). |
-| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) [![F-Droid](https://img.shields.io/f-droid/v/rkr.simplekeyboard.inputmethod?style=flat-square)](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) |  | Open-source keyboard. |
-| [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) |  | Open-source keyboard that supports many languages that other keyboards sometimes don't support. Not on F-Droid, but can be built from source or possibly through a Play Store alternative. |
-| [OpenBoard](https://github.com/dslul/openboard) [![F-Droid](https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin?style=flat-square)](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) |  | New 100% FOSS keyboard, based on AOSP. Similar to "Simple Keyboard". Thanks @Glitchy-Tozier |
 
 
 
