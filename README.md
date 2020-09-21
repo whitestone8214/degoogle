@@ -26,11 +26,14 @@
 	10. [캘린더](#캘린더)
 	11. [클라우드 기반 오피스](#클라우드-기반-오피스)
 	12. [오프라인 기반 오피스](#오프라인-기반-오피스)
-	13. [Web-based products](#web-based-products)
-	14. [Operating systems](#operating-systems)
-	15. [Desktop applications](#desktop-apps)
-	16. [Mobile applications](#mobile-apps)
-	17. [Hardware](#hardware)
+	13. [도메인](#도메인)
+	14. [드라이브](#드라이브)
+	15. [행아웃](#행아웃)
+	16. [Web-based products](#web-based-products)
+	17. [Operating systems](#operating-systems)
+	18. [Desktop applications](#desktop-apps)
+	19. [Mobile applications](#mobile-apps)
+	20. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -53,7 +56,7 @@
 2. 주로 [이 문서](https://en.wikipedia.org/wiki/List_of_Google_products)를 참고했습니다. 
 3. 마이크로소프트, 애플, 야후, 아마존, 네이버, 카카오 등은 절대 안 넣는 것은 아니지만, 가급적 다른 것들을 먼저 알아봤습니다.
 4. 미심쩍은 것들은 부연 설명을 달았습니다.
-5. 소유권이 있는 회사가 있는 나라가 '눈' 의 일원임을 확인한 경우 어느 '눈' 에 속하는지 또한 표기했습니다.
+5. 소유 주체가 있는 나라가 '눈' 의 일원임을 확인한 경우 어느 '눈' 에 속하는지 또한 표기했습니다.
 	- ['눈' 이란?](https://www.privacytools.io/providers/#ukusa)
 	- 5개의 눈: 호주, 캐나다, 뉴질랜드, 영국, 미국
 	- 9개의 눈: 5개의 눈 + 덴마크, 프랑스, 네덜란드, 노르웨이
@@ -223,6 +226,46 @@
 | [Calligra](https://calligra.org/) | | [(소스코드)](https://invent.kde.org/office/calligra) |
 
 
+## 도메인
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Njalla](https://njal.la/) | **14**(스웨덴) | |
+| [Porkbun](https://porkbun.com/) | **5**(미국) | |
+
+
+## 드라이브
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [ownCloud](https://owncloud.org/) | **14**(독일) | [(소스코드)](https://github.com/owncloud/core) |
+| [Nextcloud](https://nextcloud.com/) | **14**(독일) | [(소스코드)](https://github.com/nextcloud/server) ownCloud에서 갈라져 나온 제품입니다. |
+| [Syncthing](https://syncthing.net/) | **14**(스웨덴) | [(소스코드)](https://github.com/syncthing/syncthing) |
+| [Sia](https://sia.tech/) | **5**(미국) | [(소스코드)](https://gitlab.com/NebulousLabs/Sia) |
+| [Tresorit](https://tresorit.com/) | | |
+| [Sync](https://www.sync.com) | **5**(캐나다) | |
+| [JottaCloud](https://jottacloud.com/en/) | **9**(노르웨이) | |
+| [seafile](https://www.seafile.com) | | [(소스코드)](https://github.com/haiwen/seafile) |
+| [Cozy Cloud](https://cozy.io/) | **9**(프랑스) | [(소스코드)](https://github.com/cozy/cozy-stack) |
+
+
+## 행아웃
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Signal](https://signal.org/) | **5**(미국) | [(소스코드)](https://github.com/signalapp/Signal-Server) |
+| [Tox](https://tox.chat/) | | [(소스코드)](https://github.com/TokTok/c-toxcore) |
+| [Wire](https://wire.com/en/) | **14**(독일) | [(소스코드)](https://github.com/wireapp/wire-server) |
+| [Element](https://element.io/) | **5**(영국) | [(소스코드)](https://github.com/vector-im/element-web) 처음에는 Vector였으며, 이후 Riot(혹은 Riot.im)이었다가, 다시 이름을 바꾸어 현재 Element입니다. |
+| [Threema](https://threema.ch/en) | | [(소스코드)](https://github.com/threema-ch/threema-web) |
+| [Keybase](https://keybase.io/) | **5**(미국) | |
+| [Jitsi](https://jitsi.org/) | **5**(미국) | [(소스코드)](https://github.com/jitsi/jitsi) |
+| [Telegram](https://telegram.org/) | | [(소스코드)](https://github.com/telegramdesktop/tdesktop) |
+
+
 ## Web-based products
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -257,48 +300,6 @@ No known alternatives.
 | [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
 | [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
 
-
-
-#### Domains
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Njalla](https://njal.la/) | **14-eyes** | Privacy-focused domain registration. Competitive pricing and a large list of available domain extensions. They also offer VPS hosting. Built by people who built The Pirate Bay among others. (thanks u/brais33 and u/HumbleBasis6) |
-| [Porkbun](https://porkbun.com/) | **5-eyes** | Domain registration with free WHOIS privacy. |
-
-
-
-#### Drive
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [ownCloud](https://owncloud.org/) |  | Open-source and self-hosted. Provide your own storage. |
-| [Nextcloud](https://nextcloud.com/) |  | Also self-hosted. Spin-off of ownCloud. **Also offers Calendar and Contacts** (thanks @chribre) |
-| [Syncthing](https://syncthing.net/) | **9-eyes** | An interesting take on cloud storage: decentralized. Peer-to-peer between only your devices. Software is open-source and available on GitHub. |
-| [Sia](https://sia.tech/) |  | Fully decentralized cloud storage. |
-| [Tresorit](https://tresorit.com/) |  | Primarily meant for businesses, but offers a free version for individuals as well. (thanks u/xNick26) |
-| [Sync](https://www.sync.com) |  | End-to-end encrypted Google Drive/Dropbox replacement. |
-| [JottaCloud](https://jottacloud.com/en/) | **9-eyes** | Norway based cloud storage provider with free and paid plans. Thanks @mynamesleon |
-| [Armored](https://armored.net/) | **9-eyes** | Nextcloud instance hosted by Epik.com. Paid plans with 30-day trial. Servers in a "secure bunker" in Norway. Supports other Nextcloud features such as Nextcloud Talk. |
-| [seafile](https://www.seafile.com) |  | Open-source and self-hosted file sync&share solution. |
-| [Cozy Cloud](https://cozy.io/) | **9-eyes** | French based cloud storage provider with free and paid plans. Can also be self-hosted. Open-Source. And it also offers a collaborative notes editor. |
-
-
-
-#### Hangouts (text/video messaging)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Signal](https://signal.org/) | **5-eyes** | Whistleblower and privacy advocate Edward Snowden recommends Signal. |
-| [Tox](https://tox.chat/) |  | Tox is unique as it uses P2P technology to ensure the network *never* goes down, as long as there are users to keep it alive. They specifically say on the website "Tox has no central servers that can be raided, shut down, or forced to turn over data". |
-| [Wire](https://wire.com/en/) | **5-eyes** | Uses end-to-end encryption. Looks to be more of a corporate service with tiered plans. |
-| [Element](https://element.io/) | **5-eyes** | Open-source privacy-focused chat service with end-to-end encryption. They offer webapps, desktop apps, iOS, and Android (Play Store and F-Droid). Uses the "Matrix" protocol for decentralized communication. It is 100% free and open-source with no paid plans. |
-| [Threema](https://threema.ch/en) |  | Swiss-based GDPR-compliant instant messenger. Has apps for both iOS and Android. Unlike Signal, no phone number is required (nor is an email) to sign up. End-to-end encrypted. Thanks to @nathanvogel |
-| [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
-| [Jitsi](https://jitsi.org/) | **5-eyes** | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
-
-- *See [this article](https://outline.com/BK8f7h) for why I didn't include WhatsApp and why you should NOT use it (if someone has a better Outline link, that would be much appreciated).*
-- *I have also **removed** Telegram. See [Issue #29](https://github.com/tycrek/degoogle/issues/29) from @arsv.*
 
 
 #### Gmail (mail service)
