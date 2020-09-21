@@ -37,11 +37,19 @@
 	21. [지도](#지도)
 	22. [트랜싯](#트랜싯)
 	23. [설문지](#설문지)
-	24. [Web-based products](#web-based-products)
-	25. [Operating systems](#operating-systems)
-	26. [Desktop applications](#desktop-apps)
-	27. [Mobile applications](#mobile-apps)
-	28. [Hardware](#hardware)
+	24. [안드로이드와 퓨시아](#안드로이드와-퓨시아)
+	25. [크롬 OS](#크롬-OS)
+	26. [웨어 OS](#웨어-OS)
+	27. [안드로이드 TV](#안드로이드-TV)
+	28. [크롬과 크로뮴](#크롬과-크로뮴)
+	29. [어스](#어스)
+	30. [안드로이드 스튜디오](#안드로이드-스튜디오)
+	31. [플레이 스토어](#플레이-스토어)
+	32. [Web-based products](#web-based-products)
+	33. [Operating systems](#operating-systems)
+	34. [Desktop applications](#desktop-apps)
+	35. [Mobile applications](#mobile-apps)
+	36. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -369,6 +377,104 @@
 | [CryptPad](https://cryptpad.fr/) | **9**(프랑스) | [(소스코드)](https://github.com/xwiki-labs/cryptpad) |
 
 
+## 안드로이드와 퓨시아
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 기기에 따라 지원되지 않거나 부트로더 언락같은 복잡한 사전 조작이 필요할 수 있습니다.
+- 시도할 때는 일상이나 업무에 사용하는 기기가 아닌 별도의 기기에 시도하는 것을 잊지 마세요.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Ubuntu Touch](https://ubuntu-touch.io/) | | |
+| [LineageOS](https://www.lineageos.org/) | | |
+| [SailfishOS](https://sailfishos.org/) | | |
+| [GrapheneOS](https://grapheneos.org/) | | |
+| [postmarketOS](https://postmarketos.org/) | | |
+| [Replicant](https://replicant.us/) | | |
+| [Mobian](https://mobian-project.org/) | | |
+| [/e/](https://e.foundation/) | **9**(프랑스) | |
+
+
+## 크롬 OS
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 기기에 따라 지원되지 않거나 부트로더 언락같은 복잡한 사전 조작이 필요할 수 있습니다.
+- 시도할 때는 일상이나 업무에 사용하는 기기가 아닌 별도의 기기에 시도하는 것을 잊지 마세요.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Qubes OS](https://www.qubes-os.org/) | | |
+| [Subgraph OS](https://subgraph.com/index.en.html) | | |
+| [Tails](https://tails.boum.org/) | | |
+| [Knoppix](http://www.knopper.net/knoppix/index-en.html) | | |
+| [Parrot OS](https://parrotsec.org/) | | |
+| [PureOS](https://pureos.net/) | **5**(미국) | |
+
+
+## 웨어 OS
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 기기에 따라 지원되지 않거나 부트로더 언락같은 복잡한 사전 조작이 필요할 수 있습니다.
+- 시도할 때는 일상이나 업무에 사용하는 기기가 아닌 별도의 기기에 시도하는 것을 잊지 마세요.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [AsteroidOS](https://asteroidos.org/) | | |
+
+
+## 안드로이드 TV
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 기기에 따라 지원되지 않거나 부트로더 언락같은 복잡한 사전 조작이 필요할 수 있습니다.
+- 시도할 때는 일상이나 업무에 사용하는 기기가 아닌 별도의 기기에 시도하는 것을 잊지 마세요.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Kodi](https://kodi.tv/) | | 한때 XBMC라는 이름으로 배포되었던 적이 있습니다. |
+| [OSMC](https://osmc.tv/) | | |
+
+
+## 크롬과 크로뮴
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) | | 크로뮴에서 구글 관련 요소를 가급적 제거한 변종 크로뮴입니다. |
+| [Firefox](https://firefox.com/) | **5**(미국) | 자체 개발한 엔진을 사용합니다. |
+| [Waterfox](https://www.waterfox.net/) | **5**(미국) | Firefox의 변종으로 Firefox 57 이전의 코드를 기반으로 하는 Classic과 최신 Firefox의 코드를 기반으로 하는 Current 2종이 있습니다. |
+| [Tor Browser](https://www.torproject.org/download/) | | Firefox의 변종으로 익명 네트워크 서비스 Tor 위에서 통신이 이루어집니다. |
+| [Pale Moon](https://www.palemoon.org/) | | Firefox의 변종으로 Firefox 29 이전의 코드를 기반으로 합니다. 엔진은 Firefox의 엔진을 Goanna로 개명, 개량해서 사용합니다. |
+| [Basilisk](http://www.basilisk-browser.org/) | | Firefox의 변종으로 Firefox 57 이전의 코드를 기반으로 합니다. 엔진은 Firefox의 엔진을 Goanna로 개명, 개량해서 사용합니다. |
+
+
+## 어스
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [KDE Marble](https://kde.org/applications/education/org.kde.marble) | | [(소스코드)](https://invent.kde.org/education/marble) |
+
+
+## 안드로이드 스튜디오
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [VSCodium](https://vscodium.com/) | | [(소스코드)](https://github.com/VSCodium/vscodium) Visual Studio Code에서 브랜드를 비롯해 마이크로소프트 관련 요소를 가급적 제거한 변종입니다. |
+| [Atom](https://atom.io/) | **5**(미국) | [(소스코드)](https://github.com/atom/atom) |
+| [Nano](https://www.nano-editor.org/) | | [(소스코드)](https://git.savannah.gnu.org/cgit/nano.git/) |
+
+
+## 플레이 스토어
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [F-Droid](https://f-droid.org/) | | 오픈소스 앱만 취급하는 안드로이드용 앱스토어입니다. 모든 앱은 엄격한 자체 사전 검수를 거치며 자체적으로 빌드, 자체 서명이 적용되어 올라옵니다. |
+| [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) | | 플레이 스토어에 있는 앱을 내려받는 우회 경로입니다. |
+| [APKMirror](https://www.apkmirror.com/) | | 독자적인 페이스로 앱을 취급하는 안드로이드용 앱스토어입니다. 플레이 스토어에 있는 모든 앱을 취급하는 것은 아니지만, 플레이 스토어에 없거나 오래된 버전의 앱을 내려받을 수 있습니다. |
+| [APKGrabber](https://github.com/hemker/apkgrabber) | | [(소스코드)](https://github.com/hemker/apkgrabber) 플레이 스토어에 있는 앱을 내려받는 우회 경로입니다. |
+
+
 ## Web-based products
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -414,41 +520,6 @@ No known alternatives.
 ## Operating systems
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
-#### Android/Fuchsia
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Ubuntu Touch](https://ubuntu-touch.io/) |  | Ubuntu, but for phones. |
-| [LineageOS](https://www.lineageos.org/) | **5-eyes** | Open-source and based on Android, but without the crap. |
-| [SailfishOS](https://sailfishos.org/) |  | Privacy-focused mobile OS by Jolla with a proprietary UI and Android compatibility layer on top of an open-source Mer GNU/Linux base. |
-| [GrapheneOS](https://github.com/GrapheneOS) |  | Open-source Android-based OS with an emphasis on security and privacy. Features advanced hardening and privacy protections throughout the system. [Continuation](https://old.reddit.com/r/CopperheadOS/comments/b6muvh/androidhardening_project_renamed_to_grapheneos/) of [CopperheadOS](https://old.reddit.com/r/CopperheadOS/comments/8qdnn3/goodbye/). |
-| [postmarketOS](https://postmarketos.org/) |  | Open-source mobile Linux OS. Can install different user interfaces such as [Plasma Mobile](https://www.plasma-mobile.org/). Thanks @okias |
-| [Replicant](https://replicant.us/) | **5-eyes** | Free Android distribution. Puts the emphasis on "freedom and privacy/security". |
-
-- *You'll either need a rooted device with an unlocked bootloader, or a specific device depending on which OS you like.*
-- *Please see Issue #55 for details on /e/.*
-
-
-#### Chrome OS
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Qubes OS](https://www.qubes-os.org/) |  | "A reasonably secure operating system", at least according to their website. Edward Snowden recommends it. |
-| [Subgraph OS](https://subgraph.com/index.en.html) |  | A desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. |
-| [Tails](https://tails.boum.org/) |  | For the uber-paranoid. Runs live and the entire OS is routed through Tor right from boot. Built on Debian. |
-| [Knoppix](http://www.knopper.net/knoppix/index-en.html) |  | Another Live OS, runs from CD/DVD/USB. Can also be installed if desired. |
-| [Parrot OS](https://parrotsec.org/) |  | Debian-based and privacy focused. Fully sandboxed. (thanks u/Safe_Airport) |
-| [PureOS](https://pureos.net/) | **5-eyes** | The OS of Purism Laptops (mentioned in the Hardware section). Very clean UI. *Editor note: I could not get this working on a UEFI Dell laptop. The group behind PureOS does not provide any UEFI support.* |
-| [Any other form of Linux](https://www.linuxfoundation.org/) |  | [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions) |
-
-
-
-#### Wear OS
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [AsteroidOS](https://asteroidos.org/) | **14-eyes** | The cleanest (and only) open-source alternative for Wear OS. Make sure you buy a watch that supports it! |
-
 
 
 #### Android Auto
@@ -457,70 +528,16 @@ No known alternatives.
 
 
 
-#### Android TV
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Kodi](https://kodi.tv/) |  | It's incredibly powerful and backed by one of the strongest communities around. Tons of plugins to do nearly anything you want. Software installs on nearly any platform. |
-| [OSMC](https://osmc.tv/) |  | Free, open source media center OS. Kodi is pre-installed. Thanks to @g4rret and @lgiard for clarifying the difference between Kodi and OSMC! |
-
-
-
 
 
 ## Desktop apps
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-#### Chrome
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) |  | Chromium (which Chrome and countless other browsers are built on top of) is one of the cleanest and light-weight browsers available. This version cuts out all the Google crap. |
-| [Firefox](https://firefox.com/) |  | Built by Mozilla, "The Privacy Company". Huge extension library; great for privacy. |
-| [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in Issue #85 that Waterfox is now [apart of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
-| [Vivaldi](https://vivaldi.com/) |  | Privacy-focused browser. Appears to be very customizable and feature-rich. |
-| [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
-
-
-
-#### Earth
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [KDE Marble](https://kde.org/applications/education/org.kde.marble) |  | Strong alternative for G Earth. Currently only on Linux, but is being ported to other platforms. Thanks to @PopeRigby |
-
-
-
-#### Android Studio (not specifically for Android development, just in general)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [VSCodium](https://vscodium.com/) |  | VSCodium is Visual Studio Code but without all the Microsoft telemetry and branding. |
-| [Vim](https://www.vim.org/) |  | Open-source text editor. Thanks @moon-chilled |
-| [Emacs](https://www.gnu.org/software/emacs/) |  | Another open-source text editor. Thanks @moon-chilled |
-| [Atom](https://atom.io/) |  | Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies. (From [Wikipedia](https://en.wikipedia.org/wiki/Atom_(text_editor))) Thanks @woutfeys |
-
-
 
 
 
 ## Mobile apps
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
-#### Play Store
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
-| [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) [![F-Droid](https://img.shields.io/f-droid/v/com.github.kiliakin.yalpstore?style=flat-square)](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. This version is a fork of the original project that is no longer active. Thank @onlyjob |
-| [APKMirror](https://www.apkmirror.com/) |  | An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play. |
-| [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) [![F-Droid](https://img.shields.io/f-droid/v/com.aurora.store?style=flat-square)](https://f-droid.org/en/packages/com.aurora.store/) |  | Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @notpushkin |
-| [Fossdroid](https://fossdroid.com/) |  | Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity. |
-| [G-Droid](https://gitlab.com/gdroid/gdroidclient/) |  | Also uses the F-Droid repo but with a different UI. |
-| [APKGrabber](https://github.com/hemker/apkgrabber) |  | Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android). |
-| [Aurora Droid](https://forum.xda-developers.com/android/apps-games/app-aurora-droid-fdroid-client-t3932663) |  | Yet another F-Droid client, potentially has a few bugs (thanks u/OfficialJohnGL4) |
-
-- *When searching for replacements, check the alternative stores (such as F-Droid) before checking the Play Store.*
 
 
 #### Chrome (Android)
