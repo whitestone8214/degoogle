@@ -29,11 +29,19 @@
 	13. [도메인](#도메인)
 	14. [드라이브](#드라이브)
 	15. [행아웃](#행아웃)
-	16. [Web-based products](#web-based-products)
-	17. [Operating systems](#operating-systems)
-	18. [Desktop applications](#desktop-apps)
-	19. [Mobile applications](#mobile-apps)
-	20. [Hardware](#hardware)
+	16. [지메일](#지메일)
+	17. [킵](#킵)
+	18. [플레이 뮤직과 무비](#플레이-뮤직과-무비)
+	19. [폰트](#폰트)
+	20. [클래스룸](#클래스룸)
+	21. [지도](#지도)
+	22. [트랜싯](#트랜싯)
+	23. [설문지](#설문지)
+	24. [Web-based products](#web-based-products)
+	25. [Operating systems](#operating-systems)
+	26. [Desktop applications](#desktop-apps)
+	27. [Mobile applications](#mobile-apps)
+	28. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -266,6 +274,101 @@
 | [Telegram](https://telegram.org/) | | [(소스코드)](https://github.com/telegramdesktop/tdesktop) |
 
 
+## 지메일
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Forward Email](https://forwardemail.net/) | | |
+| [Protonmail](https://protonmail.com/) | | |
+| [Zoho Mail](https://www.zoho.com/mail/) | | |
+| [Tutanota](https://tutanota.com/) | **14**(독일) | |
+| [Posteo](https://posteo.de/en) | **14**(독일) | |
+| [mailbox.org](https://mailbox.org/en/) | **14**(독일) | |
+| [Disroot](https://disroot.org/) | **9**(네덜란드) | |
+| [StartMail](https://www.startmail.com/en/) | **9**(네덜란드) | |
+| [SimpleLogin](https://simplelogin.io/) | **9**(프랑스) | |
+| [Migadu](https://www.migadu.com/) | | |
+| [Fastmail](https://fastmail.com/) | **5**(미국, 호주) | |
+| [Runbox](https://runbox.com/) | **9**(노르웨이) | |
+| [nextCloud](https://nextcloud.com/) | **14**(독일) | [(소스코드)](https://github.com/nextcloud/server) |
+| [Thexyz](https://www.thexyz.com/) | **5**(캐나다) | |
+| [Mailfence](https://www.mailfence.com) | **14**(벨기에) | |
+
+
+## 킵
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Joplin](https://joplinapp.org/) | | [(소스코드)](https://github.com/laurent22/joplin) |
+| [Standard Notes](https://standardnotes.org/) | | [(소스코드)](https://github.com/standardnotes/web) |
+| [Zoho Notebook](https://www.zoho.com/notebook/) | | |
+| [Turtl](https://turtlapp.com/) | **5**(미국) | [(소스코드)](https://github.com/turtl/server) |
+| [QOwnNotes](https://www.qownnotes.org/) | | [(소스코드)](https://github.com/pbek/QOwnNotes) |
+| [EteSync](https://www.etesync.com) | | [(소스코드)](https://github.com/etesync/server) |
+| [GitJournal](https://gitjournal.io/) | | [(소스코드)](https://github.com/GitJournal/GitJournal) |
+
+
+## 플레이 뮤직과 무비
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Jellyfin](https://jellyfin.github.io/) | | [(소스코드)](https://github.com/jellyfin/jellyfin) 콘텐츠는 직접 구해서 채워넣어야 합니다. |
+| [Funkwhale](https://funkwhale.audio/) | | |
+| [Airsonic](https://airsonic.github.io/) | | [(소스코드)](https://github.com/airsonic/airsonic) |
+| [Music Player Daemon](https://www.musicpd.org/) | | [(소스코드)](https://github.com/MusicPlayerDaemon/MPD) |
+| [Nuclear Music Player](https://nuclear.js.org/) | | [(소스코드)](https://github.com/nukeop/nuclear/) YouTube, Jamendo, SoundCloud에서 음원을 검색, 재생합니다. |
+
+
+## 폰트
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Open Font Library](https://fontlibrary.org/) | **5**(미국) | |
+| [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | | [(소스코드)](https://github.com/majodev/google-webfonts-helper) |
+| [Brick](https://brick.im) | **5**(캐나다) | [(소스코드)](https://github.com/alfredxing/brick) |
+
+
+## 클래스룸
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Moodle](https://moodle.org/) | **5**(호주) | [(소스코드)](https://git.moodle.org/gw?p=moodle.git;a=summary) |
+| [ILIAS](https://www.ilias.de/en/) | **14**(독일) | [(소스코드)](https://github.com/ILIAS-eLearning/ILIAS) |
+| [Canvas](https://www.instructure.com/canvas) | **5**(미국) | [(소스코드)](https://github.com/instructure/canvas-lms) |
+
+
+## 지도
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [OpenStreetMap](https://www.openstreetmap.org/) | **5**(영국) | |
+| [Qwant Maps](https://www.qwant.com/maps/) | **9**(프랑스) | |
+| [Benmaps](https://benmaps.fr) | **9**(프랑스) | |
+
+
+## 트랜싯
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Transportr](https://transportr.app/) | | [(소스코드)](https://github.com/grote/Transportr) 한국 대중교통 자료는 아직 등록되어 있는 것이 없습니다. |
+
+
+## 설문지
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [BlockSurvey](https://blocksurvey.io/) | **5**(미국) | |
+| [CryptPad](https://cryptpad.fr/) | **9**(프랑스) | [(소스코드)](https://github.com/xwiki-labs/cryptpad) |
+
+
 ## Web-based products
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -302,110 +405,9 @@ No known alternatives.
 
 
 
-#### Gmail (mail service)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Forward Email](https://forwardemail.net/) |  | Forward Email is a free and open-source email forwarding service focused on a user's right to privacy. |
-| [Protonmail](https://protonmail.com/) |  | One of the top privacy-focused email providers. Servers are in Switzerland in an underground guarded bunker that they claim can "survive a nuclear attack". |
-| [Zoho Mail](https://www.zoho.com/mail/) |  | Zoho comes back yet again with a mail solution. |
-| [Tutanota](https://tutanota.com/) | **14-eyes** | Open-source. Also one of the top privacy-focused email providers. Located in Germany. |
-| [Posteo](https://posteo.de/en) | **14-eyes** | Completely anonymous mail provider located in Germany. |
-| [mailbox.org](https://mailbox.org/en/) | **14-eyes** | Paid email provider, also located in Germany. |
-| [Disroot](https://disroot.org/) | **9-eyes** | Decentralized email service. |
-| [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
-| [SimpleLogin](https://simplelogin.io/) |  | Open-source, self-hosted, and privacy focused email forwarding service. |
-| [Migadu](https://www.migadu.com/en/index.html) |  | Paid email provider, located in Switzerland. Focus on privacy. |
-| [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
-| [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
-| [nextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157) |  | Now also provides an email service (self-hosted). Thanks @je-vv |
-| [Anonymize.com Email](https://anonymize.com/) |  | Paid secure email service provided by Epik.com. |
-| [Thexyz](https://www.thexyz.com/) | **5-eyes** | Thexyz is a Canadian company offering privacy-conscious business email. Premium webmail costs USD $2.95 per month. |
-| [Mailfence](https://www.mailfence.com) | **14-eyes** | A secure and private email provider much like Protonmail and Tutanota. There are no google analytics nor hidden cookies. There are options to pay anonymously via cryptocurrency. It features a wide array of collaboration tools, such as groups, calendar, contacts, documents with editing space. Offers free, paid, and freemium plans. Can pay with cryptocurrency and has a [warrant canary](https://blog.mailfence.com/transparency-report-and-warrant-canary/). Thanks @resto1231 |
-
-- *This is just for the Gmail service, not a client*
-
-
-#### Keep
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Joplin](https://joplinapp.org/) |  | Open-source notes/todo app. Available for Windows, macOS, Linux, Android, and iOS. Also offers a terminal version. It can import Evernote `.enex` files if you use that. It can also sync with Nextcloud (mentioned above). |
-| [Standard Notes](https://standardnotes.org/) [![F-Droid](https://img.shields.io/f-droid/v/com.standardnotes?style=flat-square)](https://f-droid.org/en/packages/com.standardnotes/) |  | Encrypted note storage with loads of features. Offers a web app as well as downloads for most operating systems. Has a paid plan, but the free tier has many useful features as well. |
-| [Zoho Notebook](https://www.zoho.com/notebook/) |  | A notebook from Zoho. Also available on Android. |
-| [Turtl](https://turtlapp.com/) |  | Encrypted collaborative notebook with possibility of running your own server. |
-| [QOwnNotes](https://www.qownnotes.org/) |  | Open-source file editor with Markdown support. (thanks u/maqp2) |
-| [EteSync](https://www.etesync.com) |  | Secure, end-to-end encrypted, and open-source sync for your contacts, calendars and tasks. |
-| [GitJournal](https://gitjournal.io/) |  | Your Markdown notes stores in any Git Repo. Available for both Android (Play Store) and iOS. |
-
-
-
-#### Play Music, Movies, & TV
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Jellyfin](https://jellyfin.github.io/) |  | Open-source alternative to the Play media services. You do need to provide your own content, however. In active development with frequent updates (to the source, that is). |
-| [Funkwhale](https://funkwhale.audio/) |  | Self-hosted, decentralized music service. Provide your own audio. (thanks u/DashEquals) |
-| [Airsonic](https://airsonic.github.io/) |  | Self-hosted open-source media streamer. Has features for transcoding audio on-the-fly for "virtually any audio format". You can also set bandwidth limits if you need to. Looks very powerful. |
-| [Music Player Daemon](https://www.musicpd.org/) |  | A "flexible, powerful, server-side application for playing music". |
-| [Popcorn Time](https://popcorntime.sh/faq) |  | Open source software for desktop and mobile that let you easily stream movie/TV torrents. **Be careful if your country or ISP has policies against torrenting, a VPN is recommended.** Thanks @je-vv |
-| [Nuclear Music Player](https://nuclear.js.org/) |  | Streaming music player that finds music from free sources automatically. |
-
-- *I can no longer recommend [Emby](https://emby.media/) as they are [no longer open-source](https://www.linuxuprising.com/2018/12/jellyfin-free-software-emby-media.html).*
-- *Thanks to u/eA8KESARaW6iqCpHsbE4 for suggesting Jellyfin and pointing out that Emby isn't open-source.*
-
-
-#### Fonts
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
-| [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts) | **5-eyes** | Hassle-free way for webmasters to self-host open-source fonts from Google Fonts |
-| [Brick](https://brick.im) | **9-eyes** | Open source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. |
-
-
-
-#### Classroom
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Moodle](https://moodle.org/) |  | Self-hosted Classroom software for schools. Very powerful. Thanks @jankapunkt |
-| [ILIAS](https://www.ilias.de/en/) |  | Another self-hosted open source classroom software. Thanks again to @jankapunkt |
-| [Canvas](https://www.instructure.com/canvas) |  | Paid service by Instructure. Also available as a [self-hosted, open source option](https://github.com/instructure/canvas-lms). To ensure privacy, use the self-hosted option. |
-
-
-
-#### Maps/Street View
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [OpenStreetMap](https://www.openstreetmap.org/) | **9-eyes** | Collaborative project to create a free, editable map of the world (from Wikipedia). Completely crowdsourced. Very strong alternative to Maps. |
-| [Qwant Maps](https://www.qwant.com/maps/) |  | Maps from the makers of Qwant search engine. Thanks @mynamesleon |
-| [Benmaps](https://benmaps.fr) |  | Another maps alternative based on OpenStreetMap. Thanks @dimqua |
-
-
-
-#### Transit
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Transportr](https://transportr.app/) |  | An open-source Transit app on Android that takes information from several providers (e.g Deutsche Bahn in Germany) and enables you to use them in the app. Visualises the routes on an online OpenStreetMap map. Works in most of Western-Europe, as well as the USA, Australia, Canada, New Zealand, Brazil, Nicaragua, Costa Rica, the UAE and Ghana. **Beware: most information-providers only have beta or alpha support, it may be a good idea to keep a second app as a fallback option** |
-
-
-
 #### Trends
 
 No known alternatives.
-
-
-
-#### Forms
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [BlockSurvey](https://blocksurvey.io/) |  | BlockSurvey enables digital rights (identity and data ownership) to users using Blockstack's blockchain. Users truly own their data with BlockSurvey. All your data is protected using your key and only you can access it. There are no trackers, cookies, or fingerprints on the forms of data providers. Thanks @compressstudio |
-
-
 
 
 
