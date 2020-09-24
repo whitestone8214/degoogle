@@ -53,11 +53,27 @@
 	37. [연락처](#연락처)
 	38. [메시지](#메시지)
 	39. [키보드](#키보드)
-	40. [Web-based products](#web-based-products)
-	41. [Operating systems](#operating-systems)
-	42. [Desktop applications](#desktop-apps)
-	43. [Mobile applications](#mobile-apps)
-	44. [Hardware](#hardware)
+	40. [드라이브 앱](#드라이브-앱)
+	41. [지메일 앱](#지메일-앱)
+	42. [킵 앱](#킵-앱)
+	43. [지도 앱과 웨이즈](#지도-앱과-웨이즈)
+	44. [유튜브 앱](#유튜브-앱)
+	45. [인증기](#인증기)
+	46. [플레이 뮤직과 무비 앱](#플레이-뮤직과-무비-앱)
+	47. [행아웃 앱](#행아웃-앱)
+	48. [듀오](#듀오)
+	49. [어시스턴트](#어시스턴트)
+	50. [플레이 서비스](#플레이-서비스)
+	51. [런쳐 앱](#런쳐-앱)
+	52. [그 밖의 소프트웨어들](#그-밖의-소프트웨어들)
+	53. [안드로이드 스마트폰](#안드로이드-스마트폰)
+	54. [크롬북](#크롬북)
+	55. [홈](#홈)
+	56. [Web-based products](#web-based-products)
+	57. [Operating systems](#operating-systems)
+	58. [Desktop applications](#desktop-apps)
+	59. [Mobile applications](#mobile-apps)
+	60. [Hardware](#hardware)
 3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
 	1. [Resources](#resources)
 	2. [Books](#books)
@@ -283,7 +299,7 @@
 | [Signal](https://signal.org/) | **5**(미국) | [(소스코드)](https://github.com/signalapp/Signal-Server) |
 | [Tox](https://tox.chat/) | | [(소스코드)](https://github.com/TokTok/c-toxcore) |
 | [Wire](https://wire.com/en/) | **14**(독일) | [(소스코드)](https://github.com/wireapp/wire-server) |
-| [Element](https://element.io/) | **5**(영국) | [(소스코드)](https://github.com/vector-im/element-web) 처음에는 Vector였으며, 이후 Riot(혹은 Riot.im)이었다가, 다시 이름을 바꾸어 현재 Element입니다. |
+| [Element](https://element.io/) | **5**(영국) | [(소스코드)](https://github.com/vector-im/element-web) 안드로이드용 범용 Matrix 클라이언트입니다. 처음에는 Vector였으며, 이후 Riot(혹은 Riot.im)이었다가, 다시 이름을 바꾸어 현재 Element입니다. |
 | [Threema](https://threema.ch/en) | | [(소스코드)](https://github.com/threema-ch/threema-web) |
 | [Keybase](https://keybase.io/) | **5**(미국) | |
 | [Jitsi](https://jitsi.org/) | **5**(미국) | [(소스코드)](https://github.com/jitsi/jitsi) |
@@ -564,6 +580,173 @@
 | [nicoWnnG IME](http://gorry.haun.org/android/nicownng/) | | [(소스코드)](http://gorry.haun.org/android/nicownng/dist/old/) 일본어 키보드입니다. |
 
 
+## 드라이브 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [ownCloud](https://github.com/owncloud/android) | | ownCloud의 안드로이드용 앱입니다. 서버는 직접 찾거나 만들어서 연결해야 합니다. |
+| [Nextcloud](https://github.com/nextcloud/android) | | Nextcloud의 안드로이드용 앱입니다. 서버는 직접 찾거나 만들어서 연결해야 합니다. |
+| [Syncthing](https://github.com/syncthing/syncthing-android) | | Syncthing의 안드로이드용 앱입니다. 서버는 직접 찾거나 만들어서 연결해야 합니다. |
+
+
+## 지메일 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [ProtonMail](https://protonmail.com/support/knowledge-base/android/) | | [(소스코드)](https://github.com/ProtonMail/WebClient) ProtonMail의 클라이언트입니다. |
+| [Tutanota](https://www.tutanota.com/) | **14**(독일) | Tutanota의 클라이언트입니다. |
+| [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) | | Zoho Mail의 클라이언트입니다. |
+| [Disroot](https://disroot.org/) | | Disroot의 클라이언트입니다. |
+| [K-9](https://k9mail.github.io/) | | [(소스코드)](https://github.com/k9mail/k-9) 범용 이메일 클라이언트입니다. |
+| [FairEmail](https://email.faircode.eu/) | | [(소스코드)](https://github.com/M66B/FairEmail) 범용 이메일 클라이언트입니다. |
+| [Mailbox.org](https://mailbox.org/) | **14**(독일) | |
+
+
+## 킵 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Notepad](https://github.com/farmerbb/Notepad) | | |
+| [Joplin](https://github.com/laurent22/joplin) | | |
+| [Standard Notes](https://standardnotes.org/) | | |
+| [Omni Notes](https://omninotes.app/) | | [(소스코드)](https://github.com/federicoiosue/Omni-Notes) |
+| [Carnet](https://github.com/PhieF/CarnetDocumentation) | | |
+| [Markor](https://gsantner.net/project/markor.html) | | [(소스코드)](https://github.com/gsantner/markor) |
+| [Orgzly](http://orgzly.com/) | | [(소스코드)](https://github.com/orgzly/orgzly-android) |
+
+
+## 지도 앱과 웨이즈
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Maps](https://gitlab.com/axet/omim) | | |
+| [OsmAnd](https://osmand.net/) | | [(소스코드)](https://github.com/osmandapp/OsmAnd) OpenStreetMap의 안드로이드용 앱입니다. |
+| [Transportr](https://transportr.app/) | | [(소스코드)](https://github.com/grote/Transportr) 한국 대중교통 자료는 아직 등록되어 있는 것이 없습니다. |
+| [Öffi](https://oeffi.schildbach.de/) | | [(소스코드)](https://gitlab.com/oeffi/oeffi) 한국 대중교통 자료는 아직 등록되어 있는 것이 없습니다. |
+
+
+## 유튜브 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [NewPipe](https://newpipe.schabi.org/) | | [(소스코드)](https://github.com/TeamNewPipe/NewPipe) |
+| [YouTube Vanced](https://vanced.app/) | | 시도하기에 앞서 [개발자의 글](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)을 잘 읽어보세요. |
+
+
+## 인증기
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [andOTP](https://github.com/andOTP/andOTP) | | 안드로이드용 OTP 앱입니다. |
+| [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) | | 안드로이드용 OTP 앱입니다. |
+| [Aegis](https://getaegis.app/) | | [(소스코드)](https://github.com/beemdevelopment/Aegis) 안드로이드용 OTP 앱입니다. |
+| [Authenticator](https://mattrubin.me/authenticator/) | | [(소스코드)](https://github.com/mattrubin/Authenticator) iOS용 OTP 앱입니다. |
+| [Tofu](https://tofuauth.com) | | [(소스코드)](https://github.com/calleerlandsson/tofu) iOS용 OTP 앱입니다. |
+
+
+## 플레이 뮤직과 무비 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Audinaut](https://github.com/nvllsvm/Audinaut) | | 안드로이드용 [Subsonic](http://www.subsonic.org/pages/index.jsp) 클라이언트입니다. Subsonic 서버는 직접 찾거나 만들어 연결해야 됩니다. |
+| [MALP](https://gitlab.com/gateship-one/malp) | | 안드로이드용 [MPD](https://www.musicpd.org/) 클라이언트입니다. MPD 서버는 직접 찾거나 만들어 연결해야 됩니다. |
+
+
+## 행아웃 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Keybase](https://keybase.io/) | **5**(미국) | |
+| [Conversations](https://conversations.im/) | **14**(독일) | [(소스코드)](https://github.com/inputmice/Conversations) 안드로이드용 범용 XMPP 클라이언트입니다. 소스코드나 F-Droid에서는 무료지만, 플레이 스토어에서는 유료입니다. XMPP 서버는 직접 찾거나 만들어 연결해도 되고, 해마다 8유로를 내고 공식 사이트의 것을 이용할 수도 있습니다. |
+| [Element](https://element.io/) | **5**(영국) | [(소스코드)](https://github.com/vector-im/element-web) 안드로이드용 범용 Matrix 클라이언트입니다. 처음에는 Vector였으며, 이후 Riot(혹은 Riot.im)이었다가, 다시 이름을 바꾸어 현재 Element입니다. |
+| [Jitsi Meet](https://meet.jit.si/) | | [(소스코드)](https://github.com/jitsi/jitsi-meet) |
+
+
+## 듀오
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Jitsi Meet](https://meet.jit.si/) | | [(소스코드)](https://github.com/jitsi/jitsi-meet) |
+
+
+## 어시스턴트
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Mycroft](https://mycroft.ai/) | | [(소스코드)](https://github.com/MycroftAI/Mycroft-Android) Mycroft의 안드로이드용 클라이언트입니다. Mycroft 서버는 직접 찾거나 만들어 연결해야 됩니다. |
+| [Ara](https://github.com/FultonBrowne/Ara-android) | | [서버](https://github.com/FultonBrowne/Ara-Server)는 직접 찾거나 만들어 연결해야 됩니다. |
+
+
+## 플레이 서비스
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [microG](https://microg.org/) | | |
+
+
+## 런쳐 앱
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Shade Launcher](https://github.com/amirzaidi/Shade) | | |
+| [ZimLX](https://github.com/otakuhqz/ZimLX) | | |
+| [Lawnchair](https://lawnchair.app/) | | [(소스코드)](https://github.com/LawnchairLauncher/Lawnchair) |
+| [KISS Launcher](https://kisslauncher.com/) | | [(소스코드)](https://github.com/Neamar/KISS) |
+
+
+## 그 밖의 소프트웨어들
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Blokada](https://blokada.org/) | | [(소스코드)](https://github.com/blokadaorg/blokada) 안드로이드용 광고 차단기 앱입니다. |
+| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) | | [(소스코드)](https://github.com/OxfordHCC/tracker-control-android) 안드로이드의 VPN 기능을 활용, 앱마다 오가는 패킷을 분석해 유저를 감시하는지 여부를 검사하는 안드로이드 앱입니다. |
+
+
+## 안드로이드 스마트폰
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 통상의 안드로이드 스마트폰도 부트로더를 언락하고 커스텀롬을 입히면, 거의 탈구글할 수 있습니다. 언락이 가능하다면 말이죠.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Purism Librem 5](https://puri.sm/products/librem-5/) | **5**(미국) | |
+| [PinePhone](https://www.pine64.org/pinephone/) | **5**(미국) | |
+
+
+## 크롬북
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 통상의 크롬북도 개발자 모드를 활성화하고 다른 운영체제로 부팅함으로([방법](http://www.fascinatingcaptain.com/projects/dual-boot-chrome-os-and-linux/)), 거의 탈구글할 수 있습니다. 어떤 기종은 크롬 OS 혹은 그보다 더 밑에 있는 부팅 펌웨어를 아예 밀어버리는 방법이 공개되어 있기도 합니다.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Purism Laptops](https://puri.sm/) | **5**(미국) | |
+| [Pinebook Pro](https://www.pine64.org/pinebook-pro) | **5**(미국) | |
+
+
+## 홈
+
+- 런쳐 말고, 집안에 설치해서 쓰는 인공지능 스피커 제품을 가리킵니다.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Mycroft](https://mycroft.ai/) | | [(소스코드)](https://github.com/MycroftAI/mycroft-core) |
+| [Home Assistant](https://www.home-assistant.io/) | | [(소스코드)](https://github.com/home-assistant/core) |
+
+
 ## Web-based products
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -629,55 +812,6 @@ No known alternatives.
 
 
 
-#### Drive
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [ownCloud Android](https://github.com/owncloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.owncloud.android?style=flat-square)](https://f-droid.org/en/packages/com.owncloud.android/) |  | ownCloud Android client. Available on F-Droid. |
-| [Nextcloud Android](https://github.com/nextcloud/android) [![F-Droid](https://img.shields.io/f-droid/v/com.nextcloud.client?style=flat-square)](https://f-droid.org/en/packages/com.nextcloud.client/) |  | Nextcloud Android client. Available on F-Droid. |
-| [Syncthing Android](https://github.com/syncthing/syncthing-android) [![F-Droid](https://img.shields.io/f-droid/v/com.nutomic.syncthingandroid?style=flat-square)](https://f-droid.org/en/packages/com.nutomic.syncthingandroid/) |  | Wrapper of Syncthing for Android. Available on F-Droid. Also consider [Syncthing-Fork](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/) which uses a native Android UI rather than the default web UI. |
-
-
-
-#### Gmail (smartphone app)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Protonmail](https://protonmail.com/support/knowledge-base/android/) |  | Can be downloaded from the Play Store, but may work with one of the store replacements above (such as Yalp). |
-| [Tutanota](https://www.tutanota.com/) [![F-Droid](https://img.shields.io/f-droid/v/de.tutao.tutanota?style=flat-square)](https://f-droid.org/en/packages/de.tutao.tutanota/) | **14-eyes** | Client available from F-Droid. |
-| [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) |  | Also on the Play Store but other stores may work too. |
-| [Disroot](https://disroot.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.disroot.disrootapp?style=flat-square)](https://f-droid.org/en/packages/org.disroot.disrootapp/) |  | Available from F-Droid. |
-| [K-9 Mail](https://k9mail.github.io/) [![F-Droid](https://img.shields.io/f-droid/v/com.fsck.k9?style=flat-square)](https://f-droid.org/en/packages/com.fsck.k9/) |  | Available on F-Droid. |
-| [FairEmail](https://email.faircode.eu/) [![F-Droid](https://img.shields.io/f-droid/v/eu.faircode.email?style=flat-square)](https://f-droid.org/en/packages/eu.faircode.email/) |  | Available on F-Droid. |
-| [Mailbox.org](https://mailbox.org/) | **14-eyes** | Mailbox.org provides IMAP settings for Android/iOS and an iOS profile. Thanks @avasts Issue #45 |
-
-
-
-#### Keep (or any stock note-taking app)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Notepad](https://github.com/farmerbb/Notepad) [![F-Droid](https://img.shields.io/f-droid/v/com.farmerbb.notepad?style=flat-square)](https://f-droid.org/en/packages/com.farmerbb.notepad/) |  | Open-source. Supports Markdown and HTML. Very clean and feature-rich. *Offline only*. |
-| [Joplin](https://github.com/laurent22/joplin) |  | Scroll down on the GitHub page until you reach the Android download links. No F-Droid repo, but you can download the APK directly instead of using the Play Store. |
-| [Standard Notes](https://standardnotes.org/) |  | Encrypted note storage with loads of features. |
-| [Omni Notes](https://omninotes.app/) [![F-Droid](https://img.shields.io/f-droid/v/it.feio.android.omninotes.foss?style=flat-square)](https://f-droid.org/en/packages/it.feio.android.omninotes.foss/) |  | Very feature rich, open-source, material design notes app. Very active development. Available on F-Droid. |
-| [Carnet](https://github.com/PhieF/CarnetDocumentation) [![F-Droid](https://img.shields.io/f-droid/v/com.spisoft.quicknote?style=flat-square)](https://f-droid.org/en/packages/com.spisoft.quicknote/) |  | I had some trouble finding info on this one. Looks like it has pretty seamless/painless ownCloud and NextCloud integration. Also available on F-Droid. |
-| [Markor](https://gsantner.net/project/markor.html) [![F-Droid](https://img.shields.io/f-droid/v/net.gsantner.markor?style=flat-square)](https://f-droid.org/en/packages/net.gsantner.markor/) |  | Open-source notes/to-do app for Android. Supports Markdown editing. Available on F-Droid. App is 100% offline, as stated on the [GitHub README](https://github.com/gsantner/markor#privacy). |
-| [Orgzly](http://orgzly.com/) [![F-Droid](https://img.shields.io/f-droid/v/com.orgzly?style=flat-square)](https://f-droid.org/en/packages/com.orgzly/) |  | Open-source. Notes are stored in the plain-text [Org mode](https://orgmode.org/) format. Supports searching, metadata, and manual sync with Dropbox or local directory, which can be synced using e.g. Syncthing. |
-
-
-
-#### Maps/Waze
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Maps](https://gitlab.com/axet/omim/-/blob/HEAD/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.github.axet.maps?style=flat-square)](https://f-droid.org/en/packages/com.github.axet.maps/) |  | Open-source navigation app based on MAPS.ME. Searching for addresses doesn't always work and finding businesses can be a slight hassle, but overall one of the better apps I've used. |
-| [OsmAnd](https://osmand.net/) [![F-Droid](https://img.shields.io/f-droid/v/net.osmand.plus?style=flat-square)](https://f-droid.org/en/packages/net.osmand.plus/) |  | OpenStreetMap for Android. (thanks u/masao77). As OsmAnd is primarily crowdsourced, many regions may not be totally accurate. If you would like to help improve OpenStreetMap and OsmAnd, check out [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) (available from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/). |
-| [Transportr](https://transportr.app/) |  | Primarily European, this is an open-source public transport app. Thanks to @lgiard |
-| [Offi or Oeffi](https://oeffi.schildbach.de/) |  | Another recommendation from @lgiard, this app is also for public transport. |
-
-
-
 #### News
 
 | 이름 | 눈 | 설명 |
@@ -702,114 +836,9 @@ No known alternatives.
 - *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
 
 
-#### YouTube
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [NewPipe](https://newpipe.schabi.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square)](https://f-droid.org/en/packages/org.schabi.newpipe/) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
-| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
-
-
-
-#### Authenticator
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [andOTP](https://github.com/andOTP/andOTP) [![F-Droid](https://img.shields.io/f-droid/v/org.shadowice.flocke.andotp?style=flat-square)](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) |  | Open-source 2FA app. |
-| [FreeOTP+](https://github.com/helloworld1/FreeOTPPlus) [![F-Droid](https://img.shields.io/f-droid/v/org.liberty.android.freeotpplus?style=flat-square)](https://f-droid.org/en/packages/org.liberty.android.freeotpplus/) |  | FreeOTP is no longer in development so this fork should be used instead as it is currently in development. |
-| [Aegis](https://getaegis.app/) [![F-Droid](https://img.shields.io/f-droid/v/com.beemdevelopment.aegis?style=flat-square)](https://f-droid.org/en/packages/com.beemdevelopment.aegis/) |  | Open-source 2FA for Android. Available on F-Droid. |
-| [Authenticator](https://mattrubin.me/authenticator/) |  | **iOS** - Open-source 2FA for iOS. (thanks u/SomeoneWannaBe) |
-| [Tofu](https://tofuauth.com) |  | **iOS** - Open-source 2FA for iOS. |
-
-
-
-#### Play Music/Play Movies & TV
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Audinaut](https://github.com/nvllsvm/Audinaut) [![F-Droid](https://img.shields.io/f-droid/v/net.nullsum.audinaut?style=flat-square)](https://f-droid.org/en/packages/net.nullsum.audinaut/) |  | An open-source Airsonic client for Android. |
-| [MALP](https://gitlab.com/gateship-one/malp/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/org.gateshipone.malp?style=flat-square)](https://f-droid.org/en/packages/org.gateshipone.malp/) |  | An open-source Android client for MPD. Available on F-Droid. |
-
-
-
-#### Hangouts
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Keybase](https://keybase.io/) | **5-eyes** | encrypted chat like Signal with features like Slack. Does not require a phone number to sign up. Also has file storage. **Note:** Keybase was acquired by Zoom, Inc. in May 2020 ([Keybase blog](https://keybase.io/blog/keybase-joins-zoom), [Zoom blog](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)). Thanks @notpushkin & @multimob. |
-| [Conversations](https://conversations.im/) [![F-Droid](https://img.shields.io/f-droid/v/eu.siacs.conversations?style=flat-square)](https://f-droid.org/en/packages/eu.siacs.conversations/) | **14-eyes** | An open-source Android Jabber/XMPP client. It's a paid app on Google Play, but you can also [build it from source](https://github.com/siacs/Conversations) for free if you want to. |
-| [Element](https://github.com/vector-im/element-android) [![F-Droid](https://img.shields.io/f-droid/v/im.vector.app?style=flat-square)](https://f-droid.org/en/packages/im.vector.app/) | **5-eyes** | Android app - The open-source Android client for Element. |
-| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
-
-
-
-#### Duo (video calls)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Jitsi Meet (F-Droid)](https://meet.jit.si/) [![F-Droid](https://img.shields.io/f-droid/v/org.jitsi.meet?style=flat-square)](https://f-droid.org/en/packages/org.jitsi.meet/) |  | Jitsi is an open-source secure video conferencing platform. No account is needed to use it, simply enter a Room Name to join or host a meeting. The host is able to kick rogue users from the call. Works directly in your browser, with apps available for iOS and Android. It is not necessary to self-host, but self-hosting is an option for those who wish to. Very low latency and easy to set up. A free public server is available at [meet.jit.si](https://meet.jit.si). (**5-eyes** server) |
-
-
-
-#### Assistant
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Mycroft Android](https://github.com/MycroftAI/Mycroft-Android) |  | Android client for Mycroft. Must be built in IDE; no pre-built binaries are available. |
-| [Ara](https://github.com/FultonBrowne/Ara-android) |  | Open-source virtual assistant for Android. Can replace Google Assistant (home button functionality) on most devices. Either uses the authors server by default, or you can [run your own server](https://github.com/FultonBrowne/Ara-Server). Thanks @FultonBrowne (author of Ara) |
-
-
-
-#### Play Services Framework
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [microG](https://microg.org/) |  | A re-implementation of Google’s proprietary Android user space apps and libraries. It allows to use more precise navigation (which is proprietary in standard Android ROMs) and optionally receive push messages (requires connection to Google's servers, but also supports routing this connection through Tor). Thanks @notpushkin |
-
-
-
-#### Android home screen launchers
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Shade Launcher](https://github.com/amirzaidi/Shade) |  | Open-source Android launcher styled after the Google Pixel launcher. No F-Droid, but you can download the APK from GitHub. |
-| [ZimLX](https://github.com/otakuhqz/ZimLX) [![F-Droid](https://img.shields.io/f-droid/v/org.zimmob.zimlx?style=flat-square)](https://f-droid.org/en/packages/org.zimmob.zimlx/) |  | Open-source launcher. Active development with lots of nice features. |
-| [Lawnchair](https://lawnchair.app/) [![F-Droid](https://img.shields.io/f-droid/v/ch.deletescape.lawnchair.plah?style=flat-square)](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/) |  | Another open-source launcher, also built to look similar to Google's launcher (it is built off AOSP Launcher3). Available from F-Droid and also APKMirror. (thanks u/droidonomy) |
-| [KISS Launcher](https://kisslauncher.com/) [![F-Droid](https://img.shields.io/f-droid/v/fr.neamar.kiss?style=flat-square)](https://f-droid.org/en/packages/fr.neamar.kiss/) |  | Fast, open-source and small launcher. KISS mainly relies on an app-search-bar, which makes it very easy to open up apps quickly. Thanks @Glitchy-Tozier |
-
-
-
-#### *Other*
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Blokada](https://blokada.org/) [![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square)](https://f-droid.org/en/packages/org.blokada.alarm/) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open source." Uses internal VPN on Android to block ads. |
-| [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) [![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
-
-
-
-
 
 ## Hardware
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-#### Nexus/Pixel
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [This list](https://www.oneclickroot.com/rootable/) |  | Shows compatibility for rooting Android devices. |
-| [Purism Librem 5](https://puri.sm/products/librem-5/) | **5-eyes** | From the company that makes Purism laptops. Runs PureOS. Thanks @brandonnodnarb |
-| [PinePhone](https://www.pine64.org/pinephone/) | **5-eyes** | From the company that makes the Pine A64 Single Board Computer. Runs a variety of mainline Linux OSs with UIs adapted for mobile. |
-
-
-
-#### Chromebook
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [TUXEDO](https://www.tuxedocomputers.com/) | **14-eyes** | Privacy-focused laptop maker out of Germany. Tech specs are very competent and can easily compete with other modern systems. Fully Linux compatible. They also offer desktops. (thanks u/itsec_ho) |
-| [Purism Laptops](https://puri.sm/) | **5-eyes** | Privacy-focused laptop running PureOS. Good designs and decent hardware. |
-| [Pinebook Pro](https://www.pine64.org/pinebook-pro) |  | Mid-range Linux/FreeBSD alternative to Chromebook. |
 
 
 
@@ -818,15 +847,6 @@ No known alternatives.
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) | **5-eyes** | The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it. |
-
-
-
-#### Google Home
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Mycroft](https://mycroft.ai/) | **5-eyes** | Open-source virtual personal assistant. Can be run on a Raspberry Pi. (thanks u/Kentto7) |
-| [Home Assistant](https://www.home-assistant.io/) |  | Open-source home automation. (thanks u/bilange) |
 
 
 
