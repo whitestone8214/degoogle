@@ -62,18 +62,6 @@
 	53. [안드로이드 스마트폰](#안드로이드-스마트폰)
 	54. [크롬북](#크롬북)
 	55. [홈](#홈)
-	56. [Web-based products](#web-based-products)
-	57. [Operating systems](#operating-systems)
-	58. [Desktop applications](#desktop-apps)
-	59. [Mobile applications](#mobile-apps)
-	60. [Hardware](#hardware)
-3. [Useful links, tools, and advice](#useful-links-tools-and-advice)
-	1. [Resources](#resources)
-	2. [Books](#books)
-	3. [Blog posts](#blog-posts)
-	4. [News articles](#news-articles)
-4. [The lighter side](#the-lighter-side)
-5. [Closing remarks](#closing-remarks)
 
 
 # 원본
