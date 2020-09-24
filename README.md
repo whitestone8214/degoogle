@@ -2,13 +2,6 @@
 
 ### *내 숨길 것은 딱히 없소만, 보여드릴 것 또한 없소이다.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=September%201st%202020&color=388E3C&style=flat-square)
-
-![GitHub](https://img.shields.io/github/license/tycrek/degoogle?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/tycrek/degoogle?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tycrek/degoogle?style=flat-square)
-
 
 # 순서
 
@@ -738,6 +731,7 @@
 
 
 ## 홈
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 - 런쳐 말고, 집안에 설치해서 쓰는 인공지능 스피커 제품을 가리킵니다.
 
@@ -747,118 +741,23 @@
 | [Home Assistant](https://www.home-assistant.io/) | | [(소스코드)](https://github.com/home-assistant/core) |
 
 
-## Web-based products
+# 대체재가 없는 것들
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
-
-#### News
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Local newspaper](https://en.wikipedia.org/wiki/Category:Lists_of_newspapers_by_country) |  | Support independent and qualitative journalism in your community. |
-| [AllSides](https://www.allsides.com/unbiased-balanced-news) |  | Unbiased news source (primarily for US politics). Thanks @jeanofthedead |
-| [Miniflux](https://miniflux.app/) |  | Miniflux is a minimalist and opinionated feed reader. Completely open source, along with automatically removing pixel trackers. |
-
-
-#### Groups
-
-No known alternatives.
-
-- *Use other forum sites relating to specific topics. This is a very broad service.*
-
-
-#### Translate
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [DeepL](https://deepl.com/) | **14-eyes** | DeepL is an artifical intelligence translation service. **Please keep in mind DeepL tracks the text you translate unless you purchase Pro**. See sections 4 & 5 of their [privacy policy](https://www.deepl.com/privacy.html) for more information. Thanks u/TheCy-FiJuggernaut |
-
-
-#### G Suite (enterprise cloud)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Zoho](https://www.zoho.com/) |  | Zoho was included in 2018's thread as well, and they've only improved since then. They offer a full enterprise business suite that can easily rival G Suite or MS Office 365. *Better description wanted* |
-| [Nextcloud](https://www.nextcloud.com/) |  | Nextcloud 19 now has Community Document Server and **[ONLYOFFICE](https://www.onlyoffice.com/)** apps integrated which allows self hosted instances of docs/sheets/slides. Users are able to edit documents in real time. Thanks @k3tan172 and @plutocrat |
+- 뉴스(News)
+- 그룹스(Groups)
+- 번역(Translate)
+- 기업용 G Suite
+- 트렌드(Trends)
+- 안드로이드 오토(Android Auto)
+- 포토(Photos)
+- 페이(Pay)
+- 크롬캐스트(Chromecast)
+- 핏빗(FitBit)
 
 
 
-#### Trends
-
-No known alternatives.
-
-
-
-## Operating systems
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-
-
-#### Android Auto
-
-No known alternatives.
-
-
-
-
-
-## Desktop apps
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-
-
-## Mobile apps
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-
-
-#### News
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Flym](https://github.com/FredJul/Flym) [![F-Droid](https://img.shields.io/f-droid/v/net.frju.flym?style=flat-square)](https://f-droid.org/en/packages/net.frju.flym/) |  | Open-source Material Design RSS reader. |
-| [Feeder](https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md) [![F-Droid](https://img.shields.io/f-droid/v/com.nononsenseapps.feeder?style=flat-square)](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) |  | Use good old-fashioned RSS feeds with Feeder |
-
-
-
-#### Photos
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Piwigo Android](https://github.com/Piwigo/Piwigo-Android) |  | You need to have Piwigo set up first. |
-
-
-
-#### Pay
-
-No known alternatives.
-
-- *Realistically, there most likely is not a privacy friendly alternative to Google Pay. Get a wallet with RFID protection and keep your cards with you.*
-
-
-
-## Hardware
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-
-
-#### Chromecast
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Microsoft Wireless HDMI adapter](https://www.microsoft.com/accessories/en-us/products/adapters/wireless-display-adapter-2/p3q-00001) | **5-eyes** | The **only** reason I'm recommending this Microsoft product is because there is no possible way for it to extract any data and ship it off to Microsoft. If anyone is able to find proof that it *can*, I will remove it. |
-
-
-
-#### FitBit
-
-No known alternatives.
-
-- *Due to Google's  [recent acquisition of FitBit](https://outline.com/tsJCYN), it is recommended to avoid using FitBit. Instead, check out this [list of smart watches](https://asteroidos.org/install/) supported by Asteroid OS (See Wear OS in [Operating systems](#operating-systems)). Thanks @ribtoks*
-
-
-
-
+<!--
 # Useful links, tools, and advice
 
 ## Resources
@@ -973,3 +872,4 @@ It's a shame that Google, with their immense resources, power, and influence, do
 Hopefully this guide can serve as a starting point for those new to privacy, or be a good refresher for the experts.
 
 Good luck and stay safe!
+-->
