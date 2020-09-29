@@ -7,6 +7,7 @@
 1. [원본](#원본)
 2. [대체재](#대체재)
 	1. [검색](#검색)
+	1. [지도와 웨이즈](#지도와-웨이즈)
 	4. [유튜브](#유튜브)
 	5. [광고](#광고)
 	6. [알리미](#알리미)
@@ -24,7 +25,6 @@
 	18. [플레이 뮤직과 무비](#플레이-뮤직과-무비)
 	19. [폰트](#폰트)
 	20. [클래스룸](#클래스룸)
-	21. [지도](#지도)
 	22. [트랜싯](#트랜싯)
 	23. [설문지](#설문지)
 	24. [안드로이드와 퓨시아](#안드로이드와-퓨시아)
@@ -48,7 +48,6 @@
 	40. [드라이브 앱](#드라이브-앱)
 	41. [지메일 앱](#지메일-앱)
 	42. [킵 앱](#킵-앱)
-	43. [지도 앱과 웨이즈](#지도-앱과-웨이즈)
 	44. [유튜브 앱](#유튜브-앱)
 	45. [인증기](#인증기)
 	46. [플레이 뮤직과 무비 앱](#플레이-뮤직과-무비-앱)
@@ -90,6 +89,21 @@
 | [DuckDuckGo](https://duckduckgo.com/) | **5**(미국) | 이거라면 당신의 친구들도 인정해 줄지도 모릅니다. |
 | [Ekoru](https://ekoru.org/) | | 수익의 60%를 [Big Blue Ocean Cleanup](https://www.bigblueoceancleanup.org/)과 [Operation Posidonia](https://www.operationposidonia.com/)에 기부한다고 밝히고 있습니다. [(출처)](https://www.ekoru.org/cause/) |
 | [Mojeek](https://www.mojeek.com/) | **5**(영국) | 독자적인 크롤러와 인덱스를 운영, 독자적인 데이터베이스를 구축합니다. |
+
+
+## 지도와 웨이즈
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+- 한국에서의 길찾기, 대중교통 정보, 도로 주행에 쓸만한 대체재는 아직 없습니다.
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [OpenStreetMap](https://www.openstreetmap.org/) | **5**(영국) | |
+| [Qwant Maps](https://www.qwant.com/maps/) | **9**(프랑스) | |
+| [MAPS.ME](https://maps.me/) | | [(소스코드)](https://github.com/mapsme/omim) |
+| [OsmAnd](https://osmand.net/) | | [(소스코드)](https://github.com/osmandapp/OsmAnd) OpenStreetMap의 안드로이드용 앱입니다. |
+| [Transportr](https://transportr.app/) | | [(소스코드)](https://github.com/grote/Transportr) |
+| [Öffi](https://oeffi.schildbach.de/) | | [(소스코드)](https://gitlab.com/oeffi/oeffi) |
 
 
 ## 유튜브
@@ -153,6 +167,7 @@
 | [Supabase](https://supabase.io/) | | [(소스코드)](https://github.com/supabase/supabase) [(참고 1)](https://github.com/supabase/supabase/issues/85#issuecomment-636010946) |
 | [GoAccess](https://goaccess.io/) | | [(소스코드)](https://goaccess.io/) |
 | [Offen](https://www.offen.dev/) | **14**(독일) | [(소스코드)](https://github.com/offen/offen) |
+| [Umami](https://umami.is/) | **5**(미국) | [(소스코드)](https://github.com/mikecao/umami) |
 
 
 ## 포토
@@ -166,6 +181,7 @@
 | [JottaCloud](https://jottacloud.com/) | **9**(노르웨이) | |
 | [Cryptee](https://crypt.ee/) | | |
 | [Photostructure](https://photostructure.com/) | | [(소스코드)](https://github.com/photostructure/photostructure-for-servers) |
+| [Lychee](https://lycheeorg.github.io/) | | [(소스코드)](https://github.com/LycheeOrg/Lychee) |
 
 
 ## 캘린더
@@ -179,7 +195,7 @@
 | [EteSync](https://www.etesync.com) | | [(소스코드)](https://github.com/etesync/server) |
 | [Baïkal](https://sabre.io/baikal/) | **14**(독일) | [(소스코드)](https://github.com/sabre-io/Baikal) |
 | [Nextcloud](https://nextcloud.com/) | | [(소스코드)](https://github.com/nextcloud/server) |
-| [Fastmail](https://fastmail.com/) | **5**(미국, 호주) | |
+| [Radicale](https://radicale.org/) | **9**(프랑스) | [(소스코드)](https://github.com/Kozea/Radicale) |
 
 
 ## 클라우드 기반 오피스
@@ -211,6 +227,7 @@
 | ---- | ---- | ----------- |
 | [Njalla](https://njal.la/) | **14**(스웨덴) | |
 | [Porkbun](https://porkbun.com/) | **5**(미국) | |
+| [Orangewebsite](https://www.orangewebsite.com/) | | |
 
 
 ## 드라이브
@@ -251,7 +268,6 @@
 | ---- | ---- | ----------- |
 | [Forward Email](https://forwardemail.net/) | | |
 | [Protonmail](https://protonmail.com/) | | |
-| [Zoho Mail](https://www.zoho.com/mail/) | | |
 | [Tutanota](https://tutanota.com/) | **14**(독일) | |
 | [Posteo](https://posteo.de/en) | **14**(독일) | |
 | [mailbox.org](https://mailbox.org/en/) | **14**(독일) | |
@@ -259,7 +275,6 @@
 | [StartMail](https://www.startmail.com/en/) | **9**(네덜란드) | |
 | [SimpleLogin](https://simplelogin.io/) | **9**(프랑스) | |
 | [Migadu](https://www.migadu.com/) | | |
-| [Fastmail](https://fastmail.com/) | **5**(미국, 호주) | |
 | [Runbox](https://runbox.com/) | **9**(노르웨이) | |
 | [nextCloud](https://nextcloud.com/) | **14**(독일) | [(소스코드)](https://github.com/nextcloud/server) |
 | [Thexyz](https://www.thexyz.com/) | **5**(캐나다) | |
@@ -273,7 +288,6 @@
 | ---- | ---- | ----------- |
 | [Joplin](https://joplinapp.org/) | | [(소스코드)](https://github.com/laurent22/joplin) |
 | [Standard Notes](https://standardnotes.org/) | | [(소스코드)](https://github.com/standardnotes/web) |
-| [Zoho Notebook](https://www.zoho.com/notebook/) | | |
 | [Turtl](https://turtlapp.com/) | **5**(미국) | [(소스코드)](https://github.com/turtl/server) |
 | [QOwnNotes](https://www.qownnotes.org/) | | [(소스코드)](https://github.com/pbek/QOwnNotes) |
 | [EteSync](https://www.etesync.com) | | [(소스코드)](https://github.com/etesync/server) |
@@ -310,16 +324,6 @@
 | [Moodle](https://moodle.org/) | **5**(호주) | [(소스코드)](https://git.moodle.org/gw?p=moodle.git;a=summary) |
 | [ILIAS](https://www.ilias.de/en/) | **14**(독일) | [(소스코드)](https://github.com/ILIAS-eLearning/ILIAS) |
 | [Canvas](https://www.instructure.com/canvas) | **5**(미국) | [(소스코드)](https://github.com/instructure/canvas-lms) |
-
-
-## 지도
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [OpenStreetMap](https://www.openstreetmap.org/) | **5**(영국) | |
-| [Qwant Maps](https://www.qwant.com/maps/) | **9**(프랑스) | |
-| [Benmaps](https://benmaps.fr) | **9**(프랑스) | |
 
 
 ## 트랜싯
@@ -371,6 +375,7 @@
 | [Knoppix](http://www.knopper.net/knoppix/index-en.html) | | |
 | [Parrot OS](https://parrotsec.org/) | | |
 | [PureOS](https://pureos.net/) | **5**(미국) | |
+| [GhostBSD](https://ghostbsd.org/) | **5**(캐나다) | |
 
 
 ## 웨어 OS
@@ -578,7 +583,6 @@
 | ---- | ---- | ----------- |
 | [ProtonMail](https://protonmail.com/support/knowledge-base/android/) | | [(소스코드)](https://github.com/ProtonMail/WebClient) ProtonMail의 클라이언트입니다. |
 | [Tutanota](https://www.tutanota.com/) | **14**(독일) | Tutanota의 클라이언트입니다. |
-| [Zoho Mail](https://www.zoho.com/mail/ios-android-apps.html) | | Zoho Mail의 클라이언트입니다. |
 | [Disroot](https://disroot.org/) | | Disroot의 클라이언트입니다. |
 | [K-9](https://k9mail.github.io/) | | [(소스코드)](https://github.com/k9mail/k-9) 범용 이메일 클라이언트입니다. |
 | [FairEmail](https://email.faircode.eu/) | | [(소스코드)](https://github.com/M66B/FairEmail) 범용 이메일 클라이언트입니다. |
@@ -597,17 +601,7 @@
 | [Carnet](https://github.com/PhieF/CarnetDocumentation) | | |
 | [Markor](https://gsantner.net/project/markor.html) | | [(소스코드)](https://github.com/gsantner/markor) |
 | [Orgzly](http://orgzly.com/) | | [(소스코드)](https://github.com/orgzly/orgzly-android) |
-
-
-## 지도 앱과 웨이즈
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [Maps](https://gitlab.com/axet/omim) | | |
-| [OsmAnd](https://osmand.net/) | | [(소스코드)](https://github.com/osmandapp/OsmAnd) OpenStreetMap의 안드로이드용 앱입니다. |
-| [Transportr](https://transportr.app/) | | [(소스코드)](https://github.com/grote/Transportr) 한국 대중교통 자료는 아직 등록되어 있는 것이 없습니다. |
-| [Öffi](https://oeffi.schildbach.de/) | | [(소스코드)](https://gitlab.com/oeffi/oeffi) 한국 대중교통 자료는 아직 등록되어 있는 것이 없습니다. |
+| [Notally](https://github.com/OmGodse/Notally) | | |
 
 
 ## 유튜브 앱
@@ -682,7 +676,7 @@
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [Shade Launcher](https://github.com/amirzaidi/Shade) | | |
-| [ZimLX](https://github.com/otakuhqz/ZimLX) | | |
+| [Omega](https://github.com/otakuhqz/omega) | | |
 | [Lawnchair](https://lawnchair.app/) | | [(소스코드)](https://github.com/LawnchairLauncher/Lawnchair) |
 | [KISS Launcher](https://kisslauncher.com/) | | [(소스코드)](https://github.com/Neamar/KISS) |
 
