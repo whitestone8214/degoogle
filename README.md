@@ -8,7 +8,8 @@
 2. [대체재](#대체재)
 	1. [검색](#검색)
 	1. [지도와 웨이즈](#지도와-웨이즈)
-	4. [유튜브](#유튜브)
+	1. [유튜브](#유튜브)
+	1. [그룹스](#그룹스)
 	5. [광고](#광고)
 	6. [알리미](#알리미)
 	7. [블로그와 홈페이지](#블로그와-홈페이지)
@@ -48,7 +49,6 @@
 	40. [드라이브 앱](#드라이브-앱)
 	41. [지메일 앱](#지메일-앱)
 	42. [킵 앱](#킵-앱)
-	44. [유튜브 앱](#유튜브-앱)
 	45. [인증기](#인증기)
 	46. [플레이 뮤직과 무비 앱](#플레이-뮤직과-무비-앱)
 	47. [행아웃 앱](#행아웃-앱)
@@ -85,8 +85,8 @@
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
-| [Searx](https://searx.me/) | | 서버가 당신의 손아귀에 넘어갑니다. <br> [(소스코드)](https://github.com/searx/searx) [(설치 방법)](https://searx.github.io/searx/admin/installation.html) [(운영중인 서버 목록)](https://searx.space/) [(표준 클라이언트 API)](https://searx.github.io/searx/dev/search_api.html) |
-| [DuckDuckGo](https://duckduckgo.com/) | **5**(미국) | 이거라면 당신의 친구들도 인정해 줄지도 모릅니다. |
+| [Searx](https://searx.me/) | | 오픈소스 검색 서비스의 대표주자입니다. <br> [(소스코드)](https://github.com/searx/searx) [(설치 방법)](https://searx.github.io/searx/admin/installation.html) [(운영중인 서버 목록)](https://searx.space/) [(표준 클라이언트 API)](https://searx.github.io/searx/dev/search_api.html) |
+| [DuckDuckGo](https://duckduckgo.com/) | **5**(미국) | 구글 검색의 대체재로서는 대표주자입니다. |
 | [Ekoru](https://ekoru.org/) | | 수익의 60%를 [Big Blue Ocean Cleanup](https://www.bigblueoceancleanup.org/)과 [Operation Posidonia](https://www.operationposidonia.com/)에 기부한다고 밝히고 있습니다. [(출처)](https://www.ekoru.org/cause/) |
 | [Mojeek](https://www.mojeek.com/) | **5**(영국) | 독자적인 크롤러와 인덱스를 운영, 독자적인 데이터베이스를 구축합니다. |
 
@@ -94,16 +94,17 @@
 ## 지도와 웨이즈
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
-- 한국에서의 길찾기, 대중교통 정보, 도로 주행에 쓸만한 대체재는 아직 없습니다.
+- 한국에서 쓸만한 대체재는 아직 없습니다.
+- 현재 거의 모든 대체재가 OpenStreetMap을 기반으로 하고 있습니다. OpenStreetMap의 지도 데이터를 사용하려면 [저작권 정보](https://www.openstreetmap.org/copyright)와 [라이센스](https://opendatacommons.org/licenses/odbl/)를 숙지하세요.
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
-| [OpenStreetMap](https://www.openstreetmap.org/) | **5**(영국) | |
+| [OpenStreetMap](https://www.openstreetmap.org/) | **5**(영국) | 구글 지도의 대체재로서는 대표주자입니다. <br> [(지도 데이터)](https://wiki.openstreetmap.org/wiki/Downloading_data) [(표준 클라이언트 API)](https://wiki.openstreetmap.org/wiki/API) |
+| [MAPS.ME](https://maps.me/) | | [(소스코드)](https://github.com/mapsme/omim) 모바일용 다기능 지도 앱입니다. 기본적으로는 OpenStreetMap의 지도 데이터를 사용합니다. |
+| [OsmAnd](https://osmand.net/) | | [(소스코드)](https://github.com/osmandapp/OsmAnd) 모바일용 OpenStreetMap 앱입니다. |
+| [Transportr](https://transportr.app/) | | [(소스코드)](https://github.com/grote/Transportr) 안드로이드용 대중 교통 안내 앱입니다. |
+| [Öffi](https://oeffi.schildbach.de/) | | [(소스코드)](https://gitlab.com/oeffi/oeffi) 안드로이드용 대중 교통 안내 앱입니다. |
 | [Qwant Maps](https://www.qwant.com/maps/) | **9**(프랑스) | |
-| [MAPS.ME](https://maps.me/) | | [(소스코드)](https://github.com/mapsme/omim) |
-| [OsmAnd](https://osmand.net/) | | [(소스코드)](https://github.com/osmandapp/OsmAnd) OpenStreetMap의 안드로이드용 앱입니다. |
-| [Transportr](https://transportr.app/) | | [(소스코드)](https://github.com/grote/Transportr) |
-| [Öffi](https://oeffi.schildbach.de/) | | [(소스코드)](https://gitlab.com/oeffi/oeffi) |
 
 
 ## 유튜브
@@ -111,14 +112,20 @@
 
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
-| [PeerTube](https://joinpeertube.org/) | **9**(프랑스) | [(소스코드)](https://github.com/Chocobozzz/PeerTube) |
-| [BitChute](https://www.bitchute.com/) | **5**(영국) | |
-| [DTube](https://d.tube/) | | [(소스코드)](https://github.com/dtube/dtube) |
-| [Bit.tube](https://bittube.tv/) | | |
-| [Invidious](https://invidio.us/) | | [(소스코드)](https://github.com/omarroth/invidious) 유튜브 프론트엔드입니다. |
-| [hooktube](https://hooktube.com/) | | |
-| [LBRY](https://lbry.com/) | **5**(미국) | |
-| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | | [(소스코드)](https://github.com/FreeTubeApp/FreeTube) Invidious 프론트엔드입니다. |
+| [PeerTube](https://joinpeertube.org/) | **9**(프랑스) | 유튜브의 대체재로서는 대표주자입니다. <br> [(소스코드)](https://github.com/Chocobozzz/PeerTube) [(설치 방법)](https://docs.joinpeertube.org/install-any-os) [(운영중인 서버 목록)](https://instances.joinpeertube.org/instances) [(표준 클라이언트 API)](https://docs.joinpeertube.org/api-rest-getting-started) |
+| [LBRY](https://lbry.com/) | **5**(미국) | 유튜브의 대체재로서 주목할 만합니다. |
+| [Invidious](https://invidio.us/) | | [(소스코드)](https://github.com/iv-org/invidious) 웹브라우저에서 사용하는 비공식 유튜브 클라이언트입니다. |
+| [NewPipe](https://newpipe.net/) | | [(소스코드)](https://github.com/TeamNewPipe/NewPipe) 안드로이드용 비공식 유튜브 클라이언트입니다. |
+
+
+## 그룹스
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Sympa](https://www.sympa.org/) | **9**(프랑스) | [(소스코드)](https://github.com/sympa-community/sympa) |
+| [GNU Mailman](https://list.org/) | | [(소스코드)](https://gitlab.com/mailman) |
+| [Discourse](https://www.discourse.org/) | | [(소스코드)](https://github.com/discourse/discourse) |
 
 
 ## 광고
@@ -168,6 +175,7 @@
 | [GoAccess](https://goaccess.io/) | | [(소스코드)](https://goaccess.io/) |
 | [Offen](https://www.offen.dev/) | **14**(독일) | [(소스코드)](https://github.com/offen/offen) |
 | [Umami](https://umami.is/) | **5**(미국) | [(소스코드)](https://github.com/mikecao/umami) |
+| [Kindmetrics](https://kindmetrics.io/) | **14**(스웨덴) | [(소스코드)](https://github.com/kindmetrics/kindmetrics) |
 
 
 ## 포토
@@ -354,6 +362,7 @@
 | [Ubuntu Touch](https://ubuntu-touch.io/) | | |
 | [LineageOS](https://www.lineageos.org/) | | |
 | [SailfishOS](https://sailfishos.org/) | | |
+| [CopperheadOS](https://copperhead.co/android) | | |
 | [GrapheneOS](https://grapheneos.org/) | | |
 | [postmarketOS](https://postmarketos.org/) | | |
 | [Replicant](https://replicant.us/) | | |
@@ -439,13 +448,11 @@
 | ---- | ---- | ----------- |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/ublock-origin?style=flat-square) | | 단순한 광고 차단기를 넘어, 페이지 내의 무엇이든 차단할 수 있는 만능 차단기입니다. |
 | [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-badger17?style=flat-square) | | 보이지 않는 추적기에 대해 알아서 학습합니다. 주어지는 차단 목록에 기대기보다는 당신의 웹 활동에 동행하며 당신을 추적하는 듯한 것들을 알아서 파악합니다. |
-| [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes) ![Mozilla Add-on](https://img.shields.io/amo/users/decentraleyes?style=flat-square) | | Google Hosted Libraries같은 것들을 통해 오는 다양한 리퀘스트 형태의 추적을 막아주며, 로컬 영역에 해당 사이트들의 목록을 기록해 둡니다. 통상의 차단기들과도 궁합이 좋습니다. |
 | [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere) ![Mozilla Add-on](https://img.shields.io/amo/users/https-everywhere?style=flat-square) | | 브라우저를 나가는 리퀘스트를 가급적 모두 HTTPS로 변환합니다. |
 | [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete) ![Mozilla Add-on](https://img.shields.io/amo/users/cookie-autodelete?style=flat-square) | | 탭이 닫힐 때마다 사용되지 않는 쿠키를 자동으로 제거합니다. 제거를 원하지 않는 쿠키는 화이트리스트에 넣으면 됩니다. 컨테이너 탭도 지원합니다. |
 | [DDG Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox) ![Mozilla Add-on](https://img.shields.io/amo/users/duckduckgo-for-firefox?style=flat-square) | | 검색 엔진 덕덕고(DuckDuckGo)의 주 서비스를 이용할 수 있는 덕덕고 공식 애드온입니다. |
 | [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies) ![Mozilla Add-on](https://img.shields.io/amo/users/i-dont-care-about-cookies?style=flat-square) | | 웹에서 쿠키 사용 경고 창을 치워줍니다. 애드온이 창을 치워주지 못한다면, 우클릭 메뉴의 '쿠키 경고 보고(Report a cookie warning)' 을 사용해 어느 사이트인지 알려줄 수 있습니다. |
 | [minerBlock](https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin) ![Mozilla Add-on](https://img.shields.io/amo/users/minerblock-origin?style=flat-square) | | 웹에서 암호화폐 채굴기를 막아줍니다. 블랙리스트에 등록된 리퀘스트와 스크립트를 차단하기도 하고, 로드되는 스크립트의 정밀 검사를 통해 채굴 코드가 감지되면 차단하기도 합니다. [(소스코드)](https://github.com/xd4rker/MinerBlock) |
-| [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read) ![Mozilla Add-on](https://img.shields.io/amo/users/terms-of-service-didnt-read?style=flat-square) | | 사이트마다 툴바에 아이콘을 표시하며, 클릭하면 해당 사이트가 적용하는 이용 약관에 대해 당신에게 어느 부분이 어떻게 유해한지 설명해 주고, 유해 정도에 따라 A(가장 무해한)부터 E(가장 유해한)까지 등급도 매깁니다. |
 | [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls) ![Mozilla Add-on](https://img.shields.io/amo/users/clearurls?style=flat-square) | | 브라우저가 접속할 URL을 사전에 검사해 추적 요소가 담긴 부분을 제거해 줍니다. |
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall) ![Mozilla Add-on](https://img.shields.io/amo/users/cloud-firewall?style=flat-square) | | 당신이 원한다면 주요 클라우드 서비스에 있는 페이지나 웹 리소스에의 접속을 막아줍니다. 현재 구글, 아마존, 페이스북, 애플, 마이크로소프트, 클라우드플레어가 그 대상입니다. |
 | [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection) ![Mozilla Add-on](https://img.shields.io/amo/users/css-exfil-protection?style=flat-square) | | CSS를 청소해 CSS Exfil 공격을 예방합니다. |
@@ -455,11 +462,9 @@
 | [Google search link fix (also Yandex)](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix) ![Mozilla Add-on](https://img.shields.io/amo/users/google-search-link-fix?style=flat-square) | | 구글 검색 결과에서 당신이 링크를 클릭하는 순간 해당 링크가 가리키는 주소를 구글이 멋대로 변경하는 것을 막아줍니다. 얀덱스(Yandex)에도 적용 가능합니다. |
 | [HTTPZ](https://addons.mozilla.org/en-US/firefox/addon/httpz) ![Mozilla Add-on](https://img.shields.io/amo/users/httpz?style=flat-square) | | HTTP 리퀘스트를 HTTPS 리퀘스트로 변환해 줍니다. |
 | [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner) ![Mozilla Add-on](https://img.shields.io/amo/users/link-cleaner?style=flat-square) | | 브라우저가 접속할 URL을 청소해 줍니다. utm_* 인자나 추적 요소가 담긴 부분을 제거해 주기도 하고, 페이스북이나 스팀같은 곳에서 리다이렉트 페이지를 건너뛰게 해주기도 합니다. |
-| [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url) ![Mozilla Add-on](https://img.shields.io/amo/users/neat-url?style=flat-square) | | URL에서 쓰레기인 부분을 제거해 줍니다. |
 | [Privacy-Oriented Origin Policy](https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy) ![Mozilla Add-on](https://img.shields.io/amo/users/privacy-oriented-origin-policy?style=flat-square) | | 파이어폭스가 Origin 헤더를 전송하려 할 때 그것이 중요한 사안이 아니라면 전송하지 못하도록 막아줍니다. |
 | [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect) ![Mozilla Add-on](https://img.shields.io/amo/users/skip-redirect?style=flat-square) | | 리다이렉트 페이지를 건너뛰게 해줍니다. |
 | [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | | 탭, 웹사이트, 링크를 특수한 컨테이너에서 열게 해줍니다. 해당 컨테이너는 다른 탭들과 완전히 격리됩니다. |
-| [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix) ![Mozilla Add-on](https://img.shields.io/amo/users/umatrix?style=flat-square) | | 마우스로 브라우저의 리퀘스트를 허용하거나 거부할 수 있습니다. |
 | [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | | 검색 엔진을 이용할 때 난수생성된 쿼리를 발행해 저쪽에서 당신을 식별하기 어렵게 합니다. |
 | [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | | 사이트를 AMP 대신 원래 버전으로 이용할 수 있게 해줍니다. |
 | [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js/)  | | 이건 애드온은 아니고, 더 나은 프라이버시 보호와 보안을 추구하는, user.js로 저장해 사용하는 설정 파일입니다. 정상적으로 이용할 수 없는 사이트가 있을 수 있습니다. |
@@ -587,6 +592,7 @@
 | [K-9](https://k9mail.github.io/) | | [(소스코드)](https://github.com/k9mail/k-9) 범용 이메일 클라이언트입니다. |
 | [FairEmail](https://email.faircode.eu/) | | [(소스코드)](https://github.com/M66B/FairEmail) 범용 이메일 클라이언트입니다. |
 | [Mailbox.org](https://mailbox.org/) | **14**(독일) | |
+| [DeltaChat](https://delta.chat/) | | [(소스코드)](https://github.com/deltachat/deltachat-android) 채팅 앱처럼 생겼고 채팅 앱을 쓸 때처럼 쓰는 범용 이메일 클라이언트입니다. |
 
 
 ## 킵 앱
@@ -602,15 +608,6 @@
 | [Markor](https://gsantner.net/project/markor.html) | | [(소스코드)](https://github.com/gsantner/markor) |
 | [Orgzly](http://orgzly.com/) | | [(소스코드)](https://github.com/orgzly/orgzly-android) |
 | [Notally](https://github.com/OmGodse/Notally) | | |
-
-
-## 유튜브 앱
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [NewPipe](https://newpipe.schabi.org/) | | [(소스코드)](https://github.com/TeamNewPipe/NewPipe) |
-| [YouTube Vanced](https://vanced.app/) | | 시도하기에 앞서 [개발자의 글](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)을 잘 읽어보세요. |
 
 
 ## 인증기
@@ -727,7 +724,6 @@
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 - 뉴스(News)
-- 그룹스(Groups)
 - 기업용 G Suite
 - 트렌드(Trends)
 - 안드로이드 오토(Android Auto)
