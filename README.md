@@ -9,9 +9,11 @@
 	1. [검색](#검색)
 	1. [지도와 웨이즈](#지도와-웨이즈)
 	1. [유튜브](#유튜브)
-	1. [그룹스](#그룹스)
+	1. [플레이 스토어](#플레이-스토어)
+	2. [그룹스](#그룹스)
 	5. [광고](#광고)
 	6. [알리미](#알리미)
+	6. [기업용 G Suite](#기업용-G-Suite)
 	7. [블로그와 홈페이지](#블로그와-홈페이지)
 	8. [애널리틱스](#애널리틱스)
 	9. [포토](#포토)
@@ -37,7 +39,6 @@
 	20. [번역](#번역)
 	20. [브라우저 애드온](#브라우저-애드온)
 	30. [안드로이드 스튜디오](#안드로이드-스튜디오)
-	31. [플레이 스토어](#플레이-스토어)
 	32. [안드로이드용 크롬](#안드로이드용-크롬)
 	33. [계산기](#계산기)
 	34. [캘린더 앱](#캘린더-앱)
@@ -118,6 +119,15 @@
 | [NewPipe](https://newpipe.net/) | | [(소스코드)](https://github.com/TeamNewPipe/NewPipe) 안드로이드용 비공식 유튜브 클라이언트입니다. |
 
 
+## 플레이 스토어
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [F-Droid](https://f-droid.org/) | | [(소스코드)](https://gitlab.com/fdroid) [(설치 방법)](https://f-droid.org/ko/docs/Installing_the_Server_and_Repo_Tools/) [(표준 API)](https://f-droid.org/ko/docs/All_our_APIs/)<br>오픈소스 앱만 취급하는 안드로이드용 앱스토어입니다. 모든 앱은 엄격한 자체 사전 검수를 거치며 자체적으로 빌드, 자체 서명이 적용되어 올라옵니다. 스토어 자체의 소스코드가 공개되어 있어 직접 스토어를 구축해 운영할 수도 있습니다. |
+| [APKMirror](https://www.apkmirror.com/) | | 독자적인 페이스로 앱을 취급하는 안드로이드용 앱스토어입니다. 플레이 스토어에 있는 모든 앱을 취급하는 것은 아니지만, 플레이 스토어에 없거나 오래된 버전의 앱을 내려받을 수 있습니다. |
+
+
 ## 그룹스
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
@@ -126,6 +136,7 @@
 | [Sympa](https://www.sympa.org/) | **9**(프랑스) | [(소스코드)](https://github.com/sympa-community/sympa) |
 | [GNU Mailman](https://list.org/) | | [(소스코드)](https://gitlab.com/mailman) |
 | [Discourse](https://www.discourse.org/) | | [(소스코드)](https://github.com/discourse/discourse) |
+| [Groups.io](https://groups.io/) | | |
 
 
 ## 광고
@@ -142,6 +153,14 @@
 | 이름 | 눈 | 설명 |
 | ---- | ---- | ----------- |
 | [F5Bot](https://f5bot.com/) | **5**(미국) | 관찰하는 사이트는 Reddit, [Hacker News](https://news.ycombinator.com/), [Lobsters](https://lobste.rs/)입니다. |
+
+
+## 기업용 G Suite
+[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
+
+| 이름 | 눈 | 설명 |
+| ---- | ---- | ----------- |
+| [Open-Xchange](https://www.open-xchange.com/) | **5**(미국)<br>**14**(독일, 이탈리아) | |
 
 
 ## 블로그와 홈페이지
@@ -176,6 +195,8 @@
 | [Offen](https://www.offen.dev/) | **14**(독일) | [(소스코드)](https://github.com/offen/offen) |
 | [Umami](https://umami.is/) | **5**(미국) | [(소스코드)](https://github.com/mikecao/umami) |
 | [Kindmetrics](https://kindmetrics.io/) | **14**(스웨덴) | [(소스코드)](https://github.com/kindmetrics/kindmetrics) |
+| [userTrack](https://www.usertrack.net/) | | |
+| [Piwik PRO](https://piwik.pro/) | **5**(미국) | |
 
 
 ## 포토
@@ -252,6 +273,7 @@
 | [JottaCloud](https://jottacloud.com/en/) | **9**(노르웨이) | |
 | [seafile](https://www.seafile.com) | | [(소스코드)](https://github.com/haiwen/seafile) |
 | [Cozy Cloud](https://cozy.io/) | **9**(프랑스) | [(소스코드)](https://github.com/cozy/cozy-stack) |
+| [Filecloud 커뮤니티용](https://www.getfilecloud.com/filecloud-community-edition/) | | |
 
 
 ## 행아웃
@@ -266,7 +288,9 @@
 | [Threema](https://threema.ch/en) | | [(소스코드)](https://github.com/threema-ch/threema-web) |
 | [Keybase](https://keybase.io/) | **5**(미국) | |
 | [Jitsi](https://jitsi.org/) | **5**(미국) | [(소스코드)](https://github.com/jitsi/jitsi) |
+| [Jami](https://jami.net/) | **5**(캐나다)<br>**9**(프랑스) | [(소스코드)](https://git.jami.net/savoirfairelinux/ring-project) |
 | [Telegram](https://telegram.org/) | | [(소스코드)](https://github.com/telegramdesktop/tdesktop) |
+| [Mumble](https://www.mumble.info/) | | [(소스코드)](https://github.com/mumble-voip/mumble) |
 
 
 ## 지메일
@@ -300,6 +324,7 @@
 | [QOwnNotes](https://www.qownnotes.org/) | | [(소스코드)](https://github.com/pbek/QOwnNotes) |
 | [EteSync](https://www.etesync.com) | | [(소스코드)](https://github.com/etesync/server) |
 | [GitJournal](https://gitjournal.io/) | | [(소스코드)](https://github.com/GitJournal/GitJournal) |
+| [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) | | [(소스코드)](https://github.com/nextcloud/notes) |
 
 
 ## 플레이 뮤직과 무비
@@ -385,6 +410,7 @@
 | [Parrot OS](https://parrotsec.org/) | | |
 | [PureOS](https://pureos.net/) | **5**(미국) | |
 | [GhostBSD](https://ghostbsd.org/) | **5**(캐나다) | |
+| [GalliumOS](https://galliumos.org/) | | |
 
 
 ## 웨어 OS
@@ -467,7 +493,7 @@
 | [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers) ![Mozilla Add-on](https://img.shields.io/amo/users/temporary-containers?style=flat-square) | | 탭, 웹사이트, 링크를 특수한 컨테이너에서 열게 해줍니다. 해당 컨테이너는 다른 탭들과 완전히 격리됩니다. |
 | [TrackMeNot](https://addons.mozilla.org/en-US/firefox/addon/trackmenot) ![Mozilla Add-on](https://img.shields.io/amo/users/trackmenot?style=flat-square) | | 검색 엔진을 이용할 때 난수생성된 쿼리를 발행해 저쪽에서 당신을 식별하기 어렵게 합니다. |
 | [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | | 사이트를 AMP 대신 원래 버전으로 이용할 수 있게 해줍니다. |
-| [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js/)  | | 이건 애드온은 아니고, 더 나은 프라이버시 보호와 보안을 추구하는, user.js로 저장해 사용하는 설정 파일입니다. 정상적으로 이용할 수 없는 사이트가 있을 수 있습니다. |
+| [arkenfox의 user.js](https://github.com/arkenfox/user.js)  | | 이건 애드온은 아니고, 더 나은 프라이버시 보호와 보안을 추구하는, user.js로 저장해 사용하는 설정 파일입니다. 정상적으로 이용할 수 없는 사이트가 있을 수 있습니다. |
 
 
 ## 안드로이드 스튜디오
@@ -478,17 +504,6 @@
 | [VSCodium](https://vscodium.com/) | | [(소스코드)](https://github.com/VSCodium/vscodium) Visual Studio Code에서 브랜드를 비롯해 마이크로소프트 관련 요소를 가급적 제거한 변종입니다. |
 | [Atom](https://atom.io/) | **5**(미국) | [(소스코드)](https://github.com/atom/atom) |
 | [Nano](https://www.nano-editor.org/) | | [(소스코드)](https://git.savannah.gnu.org/cgit/nano.git/) |
-
-
-## 플레이 스토어
-[![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
-
-| 이름 | 눈 | 설명 |
-| ---- | ---- | ----------- |
-| [F-Droid](https://f-droid.org/) | | 오픈소스 앱만 취급하는 안드로이드용 앱스토어입니다. 모든 앱은 엄격한 자체 사전 검수를 거치며 자체적으로 빌드, 자체 서명이 적용되어 올라옵니다. |
-| [Yalp Store (fork)](https://github.com/kiliakin/YalpStore) | | 플레이 스토어에 있는 앱을 내려받는 우회 경로입니다. |
-| [APKMirror](https://www.apkmirror.com/) | | 독자적인 페이스로 앱을 취급하는 안드로이드용 앱스토어입니다. 플레이 스토어에 있는 모든 앱을 취급하는 것은 아니지만, 플레이 스토어에 없거나 오래된 버전의 앱을 내려받을 수 있습니다. |
-| [APKGrabber](https://github.com/hemker/apkgrabber) | | [(소스코드)](https://github.com/hemker/apkgrabber) 플레이 스토어에 있는 앱을 내려받는 우회 경로입니다. |
 
 
 ## 안드로이드용 크롬
@@ -724,7 +739,6 @@
 [![맨 위로](https://img.shields.io/badge/Back%20to%20top-lightgrey?style=flat-square)](#순서)
 
 - 뉴스(News)
-- 기업용 G Suite
 - 트렌드(Trends)
 - 안드로이드 오토(Android Auto)
 - 포토(Photos)
