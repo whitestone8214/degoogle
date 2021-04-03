@@ -74,7 +74,7 @@
 2. 주로 [이 문서](https://en.wikipedia.org/wiki/List_of_Google_products)를 참고했습니다. 
 3. 마이크로소프트, 애플, 야후, 아마존, 네이버, 카카오 등은 절대 안 넣는 것은 아니지만, 가급적 다른 것들을 먼저 알아봤습니다.
 4. 미심쩍은 것들은 부연 설명을 달았습니다.
-5. 소유 주체가 있는 나라가 '눈' 의 일원임을 확인한 경우 어느 '눈' 에 속하는지 또한 표기했습니다.
+5. 소유 주체가 있는 나라가 '눈' 의 일원임을 확인한 경우 어느 '눈' 에 속하는지 또한 표기했습니다. 자신의 무력함을 체감해 보시기 바랍니다 :)
 	- ['눈' 이란?](https://www.privacytools.io/providers/#ukusa)
 	- 5개의 눈: 호주, 캐나다, 뉴질랜드, 영국, 미국
 	- 9개의 눈: 5개의 눈 + 덴마크, 프랑스, 네덜란드, 노르웨이
@@ -211,6 +211,7 @@
 | [Cryptee](https://crypt.ee/) | | |
 | [Photostructure](https://photostructure.com/) | | [(소스코드)](https://github.com/photostructure/photostructure-for-servers) |
 | [Lychee](https://lycheeorg.github.io/) | | [(소스코드)](https://github.com/LycheeOrg/Lychee) |
+| [Stingle Photos](https://stingle.org/) | | [(소스코드)](https://github.com/stingle/stingle-photos-android) |
 
 
 ## 캘린더
@@ -284,13 +285,15 @@
 | [Signal](https://signal.org/) | **5**(미국) | [(소스코드)](https://github.com/signalapp/Signal-Server) |
 | [Tox](https://tox.chat/) | | [(소스코드)](https://github.com/TokTok/c-toxcore) |
 | [Wire](https://wire.com/en/) | **14**(독일) | [(소스코드)](https://github.com/wireapp/wire-server) |
-| [Element](https://element.io/) | **5**(영국) | [(소스코드)](https://github.com/vector-im/element-web) 안드로이드용 범용 Matrix 클라이언트입니다. 처음에는 Vector였으며, 이후 Riot(혹은 Riot.im)이었다가, 다시 이름을 바꾸어 현재 Element입니다. |
+| [Element](https://element.io/) | **5**(영국) | [(소스코드)](https://github.com/vector-im/element-web) 범용 Matrix 클라이언트입니다. 처음에는 Vector였으며, 이후 Riot(혹은 Riot.im)이었다가, 다시 이름을 바꾸어 현재 Element입니다. |
 | [Threema](https://threema.ch/en) | | [(소스코드)](https://github.com/threema-ch/threema-web) |
 | [Keybase](https://keybase.io/) | **5**(미국) | |
 | [Jitsi](https://jitsi.org/) | **5**(미국) | [(소스코드)](https://github.com/jitsi/jitsi) |
 | [Jami](https://jami.net/) | **5**(캐나다)<br>**9**(프랑스) | [(소스코드)](https://git.jami.net/savoirfairelinux/ring-project) |
 | [Telegram](https://telegram.org/) | | [(소스코드)](https://github.com/telegramdesktop/tdesktop) |
 | [Mumble](https://www.mumble.info/) | | [(소스코드)](https://github.com/mumble-voip/mumble) |
+| [Session](https://getsession.org) | **5**(호주) | [(소스코드)](https://github.com/oxen-io) |
+| [Briar](https://briarproject.org) | | [(소스코드)](https://code.briarproject.org/briar/briar) |
 
 
 ## 지메일
@@ -311,6 +314,7 @@
 | [nextCloud](https://nextcloud.com/) | **14**(독일) | [(소스코드)](https://github.com/nextcloud/server) |
 | [Thexyz](https://www.thexyz.com/) | **5**(캐나다) | |
 | [Mailfence](https://www.mailfence.com) | **14**(벨기에) | |
+| [AnonAddy](https://anonaddy.com) | | [(소스코드)](https://github.com/anonaddy) |
 
 
 ## 킵
@@ -336,7 +340,8 @@
 | [Funkwhale](https://funkwhale.audio/) | | |
 | [Airsonic](https://airsonic.github.io/) | | [(소스코드)](https://github.com/airsonic/airsonic) |
 | [Music Player Daemon](https://www.musicpd.org/) | | [(소스코드)](https://github.com/MusicPlayerDaemon/MPD) |
-| [Nuclear Music Player](https://nuclear.js.org/) | | [(소스코드)](https://github.com/nukeop/nuclear/) YouTube, Jamendo, SoundCloud에서 음원을 검색, 재생합니다. |
+| [Nuclear Music Player](https://nuclear.js.org/) | | [(소스코드)](https://github.com/nukeop/nuclear) YouTube, Jamendo, SoundCloud에서 음원을 검색, 재생합니다. |
+| [Tribler](https://www.tribler.org) | | [(소스코드)](https://github.com/Tribler/tribler) 원래는 [Onion routing](https://en.wikipedia.org/wiki/Onion_routing) 기반의 익명 네트워크를 사용하는 토렌트 클라이언트지만, 멀티미디어 스트리밍 용도로도 사용할 수 있습니다. |
 
 
 ## 폰트
@@ -393,6 +398,7 @@
 | [Replicant](https://replicant.us/) | | |
 | [Mobian](https://mobian-project.org/) | | |
 | [/e/](https://e.foundation/) | **9**(프랑스) | |
+| [CalyxOS](https://calyxos.org/) | **5**(미국) | |
 
 
 ## 크롬 OS
